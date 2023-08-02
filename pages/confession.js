@@ -46,7 +46,7 @@ export default function confess() {
           <h1 style={h1Style}>Giải đáp thắc mắc cùng chuyên gia </h1>
           <p>
             Đây là nơi bạn có thể đặt những câu hỏi mà bạn thắc mắc liên quan đến giới tính, xu
-            hướng tính dục, bản dạng giới, thể hiện giới, tất cả những  liên quan đến giới
+            hướng tính dục, bản dạng giới, thể hiện giới, tất cả những chủ đề liên quan đến giới
             tính, giáo dục giới tính và cộng đồng LGBTQIA+ Chúng mình sẽ gỡ rối những thắc mắc đấy
             giúp bạn
           </p>
