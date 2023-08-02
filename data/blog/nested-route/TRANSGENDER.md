@@ -18,8 +18,8 @@ Cần tránh nhầm lẫn rằng người chưa thực hiện phẫu thuật chu
 
 Quy ước phân loại người chuyển giới:
 
-- **Người chuyển giới nữ (transgender woman hay transwoman):** là người có giới tính khai sinh là “nam”, nhưng nhận thức giới của bản thân là nữ (hay còn gọi chuyển giới nam thành nữ). Người chuyển giới nữ sử dụng đại từ she/her.\
-- **Người chuyển giới nam (transgender man hay transguy):** là người có giới tính khai sinh là “nữ”, nhưng nhận thức giới của bản thân là nam (còn gọi chuyển giới nữ thành nam). Người chuyển giới nam sử dụng đại từ he/him.
+-   **Người chuyển giới nữ (transgender woman hay transwoman):** là người có giới tính khai sinh là “nam”, nhưng nhận thức giới của bản thân là nữ (hay còn gọi chuyển giới nam thành nữ). Người chuyển giới nữ sử dụng đại từ she/her.\
+-   **Người chuyển giới nam (transgender man hay transguy):** là người có giới tính khai sinh là “nữ”, nhưng nhận thức giới của bản thân là nam (còn gọi chuyển giới nữ thành nam). Người chuyển giới nam sử dụng đại từ he/him.
 
 # **2. Người chuyển giới và “bức bối giới” (dysphoria)**
 

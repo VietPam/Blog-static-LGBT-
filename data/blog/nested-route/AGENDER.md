@@ -18,15 +18,15 @@ Vô giới (agender hay còn gọi là genderless, genderfree, non-gendered, or 
 
 **Vô giới (Agender)** có thể mô tả bản thân họ theo một hoặc hơn trong những cách dưới đây:
 
-- Không giới tính hoặc thiếu giới tính
-- Gender neutral (tạm dịch: Giới tính trung lập). Điều này đồng nghĩa với việc họ không phải nam lẫn nữa, nhưng họ vẫn có một giới tính chưa xác định.
-- Trung tính.
-- Libragender (tạm dịch: giới tính cân), cảm thấy đa phần họ là người vô tính những một phần vẫn có cảm nhận mình thuộc một giới tính khác.
-- Có một giới tính chưa xác định được, hoặc chưa định nghĩa được; không thuộc vào nhị nguyên giới (binary) và phi nhị nguyên giới (non-binary).
-- Không có thuật ngữ phù hợp với bản dạng giới của họ.
-- Không biết và không quan tâm đến giới tính, về bản dạng giới hay thể hiện giới.
-- Quyết định không gắn nhãn giới tính
-- Định danh nhiều hơn một hoặc không giới tính nào cả.
+-   Không giới tính hoặc thiếu giới tính
+-   Gender neutral (tạm dịch: Giới tính trung lập). Điều này đồng nghĩa với việc họ không phải nam lẫn nữa, nhưng họ vẫn có một giới tính chưa xác định.
+-   Trung tính.
+-   Libragender (tạm dịch: giới tính cân), cảm thấy đa phần họ là người vô tính những một phần vẫn có cảm nhận mình thuộc một giới tính khác.
+-   Có một giới tính chưa xác định được, hoặc chưa định nghĩa được; không thuộc vào nhị nguyên giới (binary) và phi nhị nguyên giới (non-binary).
+-   Không có thuật ngữ phù hợp với bản dạng giới của họ.
+-   Không biết và không quan tâm đến giới tính, về bản dạng giới hay thể hiện giới.
+-   Quyết định không gắn nhãn giới tính
+-   Định danh nhiều hơn một hoặc không giới tính nào cả.
 
 Và đây đều thuộc về trải nghiệm và quan điểm cá nhân trong việc lựa chọn cuộc đời của họ. Việc chúng ta cần làm là tôn trọng quyết định của họ vì mỗi người đều có định hướng riêng cho bản thân mình.
 

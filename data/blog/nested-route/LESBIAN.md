@@ -25,9 +25,9 @@ Mặt khác, từ “gay” cũng có thể dùng cho đồng tính nữ.
 
 Trong quá khứ, người đồng tính nữ thường được phân ra thành:\
 
-- Butch (gọi tắt là B): chỉ người đồng tính nữ có phong cách thời trang và cá tính như nam giới. Nếu cá tính của họ mềm mỏng hơn một “butch” thông thường, họ sẽ được gọi là “soft-butch”. Masc có nét tương đồng với Butch và được sử dụng rộng rãi bởi các bạn trẻ trên các nền tảng mạng xã hội như Tiktok, Instagram,...
-- Femme: Những người đồng tính nữ có phong cách thời trang và cá tính như nữ giới.
-  Và nhiều người quan niệm rằng trong một mối quan hệ đồng tính nữ sẽ có 1 butch và 1 femme đóng vai trò như 1 vợ 1 chồng trong mối quan hệ yêu đương. Điều này dẫn đến những sự kì thị vô thức khi chứng kiến 2 bạn nữ tóc dài nữ tính hoặc là 2 bạn nữ có phần cứng rắn yêu nhau. Quan niệm phân vai trò hay đánh giá vai trò của 2 người trong mối quan hệ đồng tính nữ đôi khi được xem như hành động dị tính hóa.
+-   Butch (gọi tắt là B): chỉ người đồng tính nữ có phong cách thời trang và cá tính như nam giới. Nếu cá tính của họ mềm mỏng hơn một “butch” thông thường, họ sẽ được gọi là “soft-butch”. Masc có nét tương đồng với Butch và được sử dụng rộng rãi bởi các bạn trẻ trên các nền tảng mạng xã hội như Tiktok, Instagram,...
+-   Femme: Những người đồng tính nữ có phong cách thời trang và cá tính như nữ giới.
+    Và nhiều người quan niệm rằng trong một mối quan hệ đồng tính nữ sẽ có 1 butch và 1 femme đóng vai trò như 1 vợ 1 chồng trong mối quan hệ yêu đương. Điều này dẫn đến những sự kì thị vô thức khi chứng kiến 2 bạn nữ tóc dài nữ tính hoặc là 2 bạn nữ có phần cứng rắn yêu nhau. Quan niệm phân vai trò hay đánh giá vai trò của 2 người trong mối quan hệ đồng tính nữ đôi khi được xem như hành động dị tính hóa.
 
 Hiện nay từ butch và femme chỉ dùng để miêu tả phong cách và các tính chứ không có ý nghĩa trong việc xác định vai trò. Thay vì mang suy nghĩ “đàn ông xây nhà, đàn bà xây tổ ấm”, các cặp đôi nữ - nữ sẽ phân chia nghĩa vụ và trách nhiệm dựa trên khả năng, sở thích,.. sao cho phù hợp với mình. Điều này cũng là nền tảng giúp các cặp đôi đồng tính bền vững và bình đẳng hơn.
 

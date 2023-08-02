@@ -20,9 +20,7 @@ Còn về mặt **bản dạng giới**, những cá nhân là người trung t�
 
 Và theo **thể hiện giới**, người trung tính (Androgynous) sẽ thay đổi thể hiện giới của mình theo những yếu tố tác động của văn hóa và lịch sử khác nhau. Về mặt thể chất, vẻ ngoài của trung tính có thể thay đổi thông qua việc chuyển đổi phong cách ăn mặc, cá tính, cách thể hiện hoặc sử dụng hóc-môn.
 
-
 ![Alt text](/static/images/ANDROGYNY/ANDROGYNY_FLAG.png 'Lá cờ Trung tính phổ biến nhất')
-
 
 Hiện nay trung tính còn được xem là một lối phong cách thời trang phi giới tính (unisex) được các bạn trẻ ưa chuộng bởi sự linh hoạt và tích hợp được vẻ nam tính, nữ tính một cách hài hòa. Ngoài ra các bạn còn tự tin khoe vẻ đẹp phi giới tính của mình trên mạng xã hội qua việc thể hiện đôi nét của mình ở cả hai giới theo nhiều cách khác nhau.
 

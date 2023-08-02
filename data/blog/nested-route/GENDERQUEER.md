@@ -15,13 +15,13 @@ Thuật ngữ Genderqueer có những nét tương đồng với phi nhị nguy�
 
 Đa dạng tính dục (Genderqueer) được tạo nên có liên quan đến thuật ngữ Queer. Có rất nhiều bản dạng khác nhau nằm ngoài phân loại nam và nữ, được thuật ngữ genderqueer bao hàm:
 
-- Vô giới
-- Song giới
-- Đa giới
-- Linh hoạt giới tính
-- Trung tính
-- Neutrois
-- Demigender
+-   Vô giới
+-   Song giới
+-   Đa giới
+-   Linh hoạt giới tính
+-   Trung tính
+-   Neutrois
+-   Demigender
 
 Những ai là đa dạng tính dục (genderqueer) có thể nhận định chỉ là genderqueer thôi hoặc một gì đó khác. Ví dụ, một người nhận định là người đa dạng tính dục chuyển giới nữ hoặc người song trung tính đa dạng tính dục. Nên genderqueer là một thuật ngữ bao quát, chỉ chung là nhóm thiểu số về tính dục và giới. Genderqueer hay queer chỉ bất kì không thuộc hệ nhị nguyên, hoặc ở giữa, hay đơn giản là họ không muốn dùng những định danh phức tạp khác.\
 Người chuyển giới cũng có thể định danh mình là người đa dạng tính dục hoặc ngược lại. Nhiều trường hợp các genderqueer chọn việc đối mặt với xã hội, pháp luật, hoặc phương pháp chuyển đổi y học, bao gồm việc tiêm hóc-môn, đổi tên, hoặc làm phẫu thuật để bộc lộ bản dạng giới đúng đắn của bản thân.

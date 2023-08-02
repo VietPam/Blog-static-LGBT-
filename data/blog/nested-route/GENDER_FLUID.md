@@ -17,11 +17,11 @@ Thể hiện giới là cách một người thể hiện nhận thức về gi�
 
 **Linh hoạt giới tính (Genderfluid)** chỉ sự thay đổi qua thời gian của bản dạng giới hay thể hiện giới, hoặc cả hai, của một người. Những sự thay đổi thường thấy ở linh hoạt giới tính thường được biểu hiện dưới dạng:
 
-- Thay đổi về thể hiện giới nhưng không thay đổi bản dạng giới.
-- Thay đổi về bản dạng giới giới nhưng không thay đổi về thể hiện giới.
-- Thay đổi về cả bản dạng giới và thể hiện giới.
-  Với một số bạn trẻ, những sự thay đổi trên có thể là bước ngoặt để xác định bản dạng giới của bản thân, với một số khác thì những sự thay đổi ấy tiếp tục xảy ra trong suốt cuộc đời của họ.
-  ![Alt text](/static/images/GENDER_FLUID/gender-fluid-flag.png 'Cờ tự hào của gender fluid')
+-   Thay đổi về thể hiện giới nhưng không thay đổi bản dạng giới.
+-   Thay đổi về bản dạng giới giới nhưng không thay đổi về thể hiện giới.
+-   Thay đổi về cả bản dạng giới và thể hiện giới.
+    Với một số bạn trẻ, những sự thay đổi trên có thể là bước ngoặt để xác định bản dạng giới của bản thân, với một số khác thì những sự thay đổi ấy tiếp tục xảy ra trong suốt cuộc đời của họ.
+    ![Alt text](/static/images/GENDER_FLUID/gender-fluid-flag.png 'Cờ tự hào của gender fluid')
 
 # **2. Những điều cần biết về linh hoạt giới (gender fluidity)**
 

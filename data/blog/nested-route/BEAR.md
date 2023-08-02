@@ -28,13 +28,13 @@ Vì thuật ngữ Bear là thuật ngữ văn hóa đồng tính nam dùng để
 
 Tuy nhiên, hãy nhớ rằng, phân loại này dùng để miêu tả đặc điểm nhận dạng điển hình (thể hiện giới) trong cộng đồng Bear, không có nghĩa ai có những tương đồng với miêu tả dưới dây được kết luận là Bear nếu họ không khẳng định như vậy.\
 
-- Cub, younger bears (Gấu con): Những người dưới 30 tuổi, có thân hình nhỏ hơn đa số Bear khác, có cơ bắp rắn chắc, khỏe mạnh.
-- Otter (rái cá): những người thuộc cộng đồng Bear, hơi gầy hoặc cân đối, có nhiều râu và lông trên cơ thể. Họ được xem là sự kết hợp giữ Bear và Twink.
-- Wolf: Mô tả những chú “Gấu” cơ bắp, có lông rậm rạp. Họ thường được nhận xét là rất hấp dẫn, quyến rũ, mặt khác Wolf sẽ là người dẫn dắt, chủ động hơn trong một mối quan hệ tình cảm.
-- Leather bear (tạm dịch: Gấu da), những người thuộc cộng đồng Bear yêu thích văn hóa Bạo dâm (BDSM).
-- Ursulas, nguồn gốc từ Bear đồng tính nữ, hoặc phụ nữ hấp dẫn bởi phái nữ/phi nhị nguyên giới có vẻ ngoài to lớn, vạm vỡ.
-- Femme bears, người nữ thuộc cộng đồng LGBT (queer femme), mang những đặc điểm thông thường của Bear
-- Trans bears, những người chuyển giới nặng cân và có râu tóc rậm rạp.
+-   Cub, younger bears (Gấu con): Những người dưới 30 tuổi, có thân hình nhỏ hơn đa số Bear khác, có cơ bắp rắn chắc, khỏe mạnh.
+-   Otter (rái cá): những người thuộc cộng đồng Bear, hơi gầy hoặc cân đối, có nhiều râu và lông trên cơ thể. Họ được xem là sự kết hợp giữ Bear và Twink.
+-   Wolf: Mô tả những chú “Gấu” cơ bắp, có lông rậm rạp. Họ thường được nhận xét là rất hấp dẫn, quyến rũ, mặt khác Wolf sẽ là người dẫn dắt, chủ động hơn trong một mối quan hệ tình cảm.
+-   Leather bear (tạm dịch: Gấu da), những người thuộc cộng đồng Bear yêu thích văn hóa Bạo dâm (BDSM).
+-   Ursulas, nguồn gốc từ Bear đồng tính nữ, hoặc phụ nữ hấp dẫn bởi phái nữ/phi nhị nguyên giới có vẻ ngoài to lớn, vạm vỡ.
+-   Femme bears, người nữ thuộc cộng đồng LGBT (queer femme), mang những đặc điểm thông thường của Bear
+-   Trans bears, những người chuyển giới nặng cân và có râu tóc rậm rạp.
 
 Ngoài ra còn có những thuật ngữ văn hóa khác thể hiện sự đa dạng trong cộng đồng Bear.
 

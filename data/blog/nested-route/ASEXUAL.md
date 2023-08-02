@@ -46,11 +46,11 @@ Phân biệt đối xử với vô tính luyến ái (Discrimination against ase
 Acephobia là một thuật ngữ miêu tả sự ghê sợ đối với vô tính\vô ái của cộng đồng thông qua các ngộ nhận, hành vi, thái độ và cảm xúc tiêu cực đối với người vô tính hoặc những người xác định là một phần của phổ vô tính.\
 Sự kì thị này được nhận biết thông qua những dấu hiệu như:\
 
-- Phi nhân hóa.
-- Cho rằng vô tính là bệnh tâm thần, trái tự nhiên.
-- Có niềm tin bền vững về vô tính là sự hình thành từ tấn công tình dục hay lạm dụng tình dục.
-- Tin rằng những người thuộc phổ vô tính chưa tìm được đúng người.
-- Không công nhận vô tính là một xu hướng tính dục và cho rằng những người thuộc vô ái\vô tính không tồn tại.
+-   Phi nhân hóa.
+-   Cho rằng vô tính là bệnh tâm thần, trái tự nhiên.
+-   Có niềm tin bền vững về vô tính là sự hình thành từ tấn công tình dục hay lạm dụng tình dục.
+-   Tin rằng những người thuộc phổ vô tính chưa tìm được đúng người.
+-   Không công nhận vô tính là một xu hướng tính dục và cho rằng những người thuộc vô ái\vô tính không tồn tại.
 
 Người Thuộc phổ vô tính còn phải đối mặt về các định kiến trong cộng đồng, chẳng hạn như một số người cho rằng vô tính không nên thuộc LGBT+, bị các dịch vụ về LGBT+ đối xử không phù hợp, hay khi nói về A trong LGBTQIA+ họ chỉ nhắc tới Ally làm vô hình chung những người thuộc vô tính\vô ái bị gạt ra khỏi cộng đồng.
 

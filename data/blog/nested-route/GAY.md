@@ -22,8 +22,8 @@ Ví dụ: Gay bar – quán bar dành cho người đồng tính; Gay wedding �
 
 # **3. Các vai trò trong mối quan hệ đồng tính nam**
 
-- Top: Những người đồng tính nam chủ động trong việc quan hệ tình dục.
-- Bottom: những người đồng tính nam thụ động trong việc quan hệ tình dục.
+-   Top: Những người đồng tính nam chủ động trong việc quan hệ tình dục.
+-   Bottom: những người đồng tính nam thụ động trong việc quan hệ tình dục.
 
 Thông thường, người “top” được xem là “chồng” trong mối quan hệ đồng tính. Người “bottom” thường được xem là “vợ”. Nhiều người coi việc này là dị tính hoá quan hệ đồng tính và không thực sự cần thiết phải phân vai trò trong một mối quan hệ.\
 Vì thế, không phải cặp đồng tính nào cũng chọn dị tính hoá mối quan hệ của mình. Việc không phân biệt rạch ròi vai trò như các cặp đôi nam - nữ khác sẽ giảm áp lực về sự phân công mang tính định kiến xã hội. Thay vì mang suy nghĩ “đàn ông xây nhà, đàn bà xây tổ ấm”, các cặp đôi nam - nam sẽ phân chia nghĩa vụ và trách nhiệm dựa trên khả năng, sở thích,.. Sao cho phù hợp với mình. Điều này cũng là nền tảng giúp các cặp đôi đồng tính bền vững và bình đẳng hơn.

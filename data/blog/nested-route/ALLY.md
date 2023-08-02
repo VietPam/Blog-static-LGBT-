@@ -6,7 +6,7 @@ draft: false
 summary: 'Đồng minh là người ủng hộ, tôn trọng và đồng hành cùng cộng đồng LGBTQI+. Trên thực tế, đồng minh là người hoạt động sôi nổi trong việc thể hiện quan điểm và công khai ủng hộ mạnh mẽ cộng đồng LGBT.'
 ---
 
-Đồng minh là người ủng hộ, tôn trọng và đồng hành cùng cộng đồng LGBTQI+. Trên thực tế, đồng minh là người hoạt động sôi nổi trong việc thể hiện quan điểm và công khai ủng hộ mạnh mẽ cộng đồng LGBT. 
+Đồng minh là người ủng hộ, tôn trọng và đồng hành cùng cộng đồng LGBTQI+. Trên thực tế, đồng minh là người hoạt động sôi nổi trong việc thể hiện quan điểm và công khai ủng hộ mạnh mẽ cộng đồng LGBT.
 
 # **1. Định nghĩa**
 
@@ -21,12 +21,11 @@ Người đồng minh lựa chọn việc cho xã hội thấy mình là đồng
 Ngoài đồng minh dị tính nổi bật như trên thì cũng có những lá cờ riêng dành cho các xu hướng tính dục khác nhau trong cộng đồng LGBT+ vô cùng đa sắc!
 ||||
 | -------- | -------- | -------- |
-| ![Alt text](/static/images/ALLY/ALLY1.png 'Cờ đồng minh chuyển giới (Transgender)')  | ![Alt text](/static/images/ALLY/ALLY2.png 'Cờ đồng minh song tính (Bisexual)')  | ![Alt text](/static/images/ALLY/ALLY3.png 'Cờ đồng minh vô ái (Aromantic)')  |
-| ![Alt text](/static/images/ALLY/ALLY4.png 'Cờ đồng minh vô tính (Asexual)')  | ![Alt text](/static/images/ALLY/ALLY5.png 'Cờ đồng minh người đang khám phá bản thân (Questioning)')  | ![Alt text](/static/images/ALLY/ALLY6.png 'Cờ đồng minh liên giới tính (Intersex)')  |
-| ![Alt text](/static/images/ALLY/ALLY7.png 'Cờ đồng minh dị tính (Heterosexual)')  | ![Alt text](/static/images/ALLY/ALLY8.png 'Cờ đồng minh hợp giới(cisgender)')  | ![Alt text](/static/images/ALLY/ALLY9.png )  |
-| ![Alt text](/static/images/ALLY/ALLY10.png 'Cờ đồng minh đa ái')  | ![Alt text](/static/images/ALLY/ALLY11.png 'Cờ đồng minh liên giới tính bởi Rosie')  | ![Alt text](/static/images/ALLY/ALLY12.png 'Cờ đồng minh linh hoạt giới (Genderfluid)')  |
-| ![Alt text](/static/images/ALLY/ALLY13.png 'Cờ đồng minh người không thuộc cộng đồng LGBTQ+')  |   |   |
-
+| ![Alt text](/static/images/ALLY/ALLY1.png 'Cờ đồng minh chuyển giới (Transgender)') | ![Alt text](/static/images/ALLY/ALLY2.png 'Cờ đồng minh song tính (Bisexual)') | ![Alt text](/static/images/ALLY/ALLY3.png 'Cờ đồng minh vô ái (Aromantic)') |
+| ![Alt text](/static/images/ALLY/ALLY4.png 'Cờ đồng minh vô tính (Asexual)') | ![Alt text](/static/images/ALLY/ALLY5.png 'Cờ đồng minh người đang khám phá bản thân (Questioning)') | ![Alt text](/static/images/ALLY/ALLY6.png 'Cờ đồng minh liên giới tính (Intersex)') |
+| ![Alt text](/static/images/ALLY/ALLY7.png 'Cờ đồng minh dị tính (Heterosexual)') | ![Alt text](/static/images/ALLY/ALLY8.png 'Cờ đồng minh hợp giới(cisgender)') | ![Alt text](/static/images/ALLY/ALLY9.png) |
+| ![Alt text](/static/images/ALLY/ALLY10.png 'Cờ đồng minh đa ái') | ![Alt text](/static/images/ALLY/ALLY11.png 'Cờ đồng minh liên giới tính bởi Rosie') | ![Alt text](/static/images/ALLY/ALLY12.png 'Cờ đồng minh linh hoạt giới (Genderfluid)') |
+| ![Alt text](/static/images/ALLY/ALLY13.png 'Cờ đồng minh người không thuộc cộng đồng LGBTQ+') | | |
 
 **Tham khảo:**
 
