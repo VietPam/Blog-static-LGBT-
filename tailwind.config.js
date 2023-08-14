@@ -26,10 +26,17 @@ module.exports = {
             },
             fontFamily: {
                 sans: ['InterVariable', ...defaultTheme.fontFamily.sans],
+                Montserrat: ['Montserrat', 'sans-serif'],
             },
             colors: {
                 primary: colors.teal,
                 gray: colors.neutral,
+            },
+            backgroundImage: {
+                gradient:
+                    'linear-gradient(to right, #FF7AD2, #FF9194, #FF9B76, #F6CD73, #81DD79, #9DA7D8, #D886FF)',
+                image: 'url("/static/images/mainpage.png")',
+                webpage: 'linear-gradient(to right, #98BBFF, #C5AEFF ,#E88EF4, #FFB6B6)',
             },
             typography: (theme) => ({
                 DEFAULT: {

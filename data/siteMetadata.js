@@ -1,8 +1,9 @@
 const siteMetadata = {
     title: `Pride's Little World`,
     author: `Pride's Little World`,
-    headerTitle: `Pride's Little World`,
-    description: `Các bài viết nổi bật`,
+    headerTitle: `PRIDE'S LITTLE WORLD`,
+    sologan: `into the homeverse`,
+    description: `Trang web thông tin về LGBTQI+`,
     language: 'en-us',
     theme: 'system', // system, dark or light
     siteUrl: 'https://prideslittleworld.vercel.app/',

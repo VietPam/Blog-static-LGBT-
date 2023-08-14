@@ -2,7 +2,8 @@ import { getAllFilesFrontMatter } from '@/lib/mdx'
 import siteMetadata from '@/data/siteMetadata'
 import ListLayout from '@/layouts/ListLayout'
 import { PageSEO } from '@/components/SEO'
-
+import { AppContext } from '../context/context_search'
+import React, { useState, useContext } from 'react'
 export const POSTS_PER_PAGE = 5
 
 export async function getStaticProps() {
@@ -15,7 +16,6 @@ export async function getStaticProps() {
 
     return { props: { initialDisplayPosts, posts, pagination } }
 }
-
 export default function Blog({ posts, initialDisplayPosts, pagination }) {
     return (
         <>

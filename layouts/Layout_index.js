@@ -1,22 +1,20 @@
 import Link from '@/components/Link'
 import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
-import { useState, useContext } from 'react'
+import { useState } from 'react'
 import Pagination from '@/components/Pagination'
 import formatDate from '@/lib/utils/formatDate'
 import Image from 'next/image'
-import { AppContext } from '../context/context_search'
-export default function ListLayout({ posts, title, initialDisplayPosts = [], pagination }) {
-    const [data, setData] = useContext(AppContext)
-    const [searchValue, setSearchValue] = useState(data)
+export default function ListLayout({ posts, title, initialDisplayPosts = [], pagination, input }) {
+    const [searchValue, setSearchValue] = useState('')
     const filteredBlogPosts = posts.filter((frontMatter) => {
         const searchContent = frontMatter.title + frontMatter.summary + frontMatter.tags.join(' ')
         return searchContent.toLowerCase().includes(searchValue.toLowerCase())
     })
-    console.log(searchValue)
+
     // If initialDisplayPosts exist, display it if no searchValue is specified
-    const displayPosts =
-        initialDisplayPosts.length > 0 && !searchValue ? initialDisplayPosts : filteredBlogPosts
+    const displayPosts = !searchValue ? [] : filteredBlogPosts
+
     return (
         <>
             <div className="divide-y divide-gray-200 dark:divide-gray-700">
@@ -43,7 +41,7 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
                     </div>
                 </div>
                 <ul>
-                    {!filteredBlogPosts.length && 'No posts found.'}
+                    {!filteredBlogPosts.length && 'Chết rồi tui mình chưa có bài, bạn đợi hé'}
                     {displayPosts.map((frontMatter) => {
                         const { slug, date, title, summary, tags } = frontMatter
                         return (
@@ -84,12 +82,6 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
                     })}
                 </ul>
             </div>
-            {pagination && pagination.totalPages > 1 && !searchValue && (
-                <Pagination
-                    currentPage={pagination.currentPage}
-                    totalPages={pagination.totalPages}
-                />
-            )}
         </>
     )
 }

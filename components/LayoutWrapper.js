@@ -10,8 +10,8 @@ const LayoutWrapper = ({ children }) => {
     return (
         <div>
             <SectionContainer>
-                <div className="flex h-screen flex-col justify-between">
-                    <header className="flex items-center justify-between py-10">
+                <div className="relative flex flex-col justify-between">
+                    <header className="fixed z-10 flex w-full items-center justify-between bg-gradient px-4 xl:px-0">
                         <div>
                             <Link href="/" aria-label={siteMetadata.headerTitle}>
                                 <div className="flex items-center justify-between">
@@ -20,14 +20,19 @@ const LayoutWrapper = ({ children }) => {
                                         <Image
                                             src="/static/images/avatar.png"
                                             alt="Logo"
-                                            height={60}
-                                            width={60}
+                                            height={90}
+                                            width={90}
                                         />{' '}
                                     </div>
 
                                     {typeof siteMetadata.headerTitle === 'string' ? (
-                                        <div className="hidden h-6 text-2xl font-semibold sm:block">
-                                            {siteMetadata.headerTitle}
+                                        <div className="text-2xl">
+                                            <h1 className="hidden font-semibold sm:block sm:drop-shadow-md">
+                                                {siteMetadata.headerTitle}
+                                            </h1>
+                                            <h3 className="hidden font-light sm:block sm:drop-shadow-md">
+                                                {siteMetadata.sologan}
+                                            </h3>
                                         </div>
                                     ) : (
                                         siteMetadata.headerTitle
@@ -35,13 +40,13 @@ const LayoutWrapper = ({ children }) => {
                                 </div>
                             </Link>
                         </div>
-                        <div className="flex items-center text-base leading-5">
-                            <div className="hidden sm:block">
+                        <div className="flex items-center justify-between text-base leading-5">
+                            <div className="sm:block lg:flex lg:items-center">
                                 {headerNavLinks.map((link) => (
                                     <Link
                                         key={link.title}
                                         href={link.href}
-                                        className="p-1 font-medium text-gray-900 dark:text-gray-100 sm:p-4"
+                                        className="font-Bold hidden p-1 text-xl font-bold text-gray-900 drop-shadow-md dark:text-gray-100 sm:p-4 lg:block"
                                     >
                                         {link.title}
                                     </Link>
@@ -51,9 +56,7 @@ const LayoutWrapper = ({ children }) => {
                             <MobileNav />
                         </div>
                     </header>
-                    <main className="mb-auto">{children}</main>
-
-                    <Footer />
+                    <main className="z-0 mb-auto mt-20 bg-webpage">{children}</main>
                 </div>
             </SectionContainer>
         </div>
