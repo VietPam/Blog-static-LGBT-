@@ -13,7 +13,6 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
         const searchContent = frontMatter.title + frontMatter.summary + frontMatter.tags.join(' ')
         return searchContent.toLowerCase().includes(searchValue.toLowerCase())
     })
-    console.log(searchValue)
     // If initialDisplayPosts exist, display it if no searchValue is specified
     const displayPosts =
         initialDisplayPosts.length > 0 && !searchValue ? initialDisplayPosts : filteredBlogPosts
@@ -29,7 +28,7 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
                             aria-label="Search articles"
                             type="text"
                             onChange={(e) => setSearchValue(e.target.value)}
-                            placeholder="Tìm gì đi má"
+                            placeholder={data !== "" ? data : "Tìm gì đi má"}
                             className=" ml-16 block w-full rounded-md border border-gray-300 bg-white px-4 py-2 text-gray-100 focus:border-primary-500 focus:ring-primary-500 dark:border-gray-900 dark:bg-gray-100 dark:text-gray-900"
                         />
                         <span className="absolute">
