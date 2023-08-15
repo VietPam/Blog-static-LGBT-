@@ -19,7 +19,7 @@ export async function getStaticProps() {
 export default function Blog({ posts, initialDisplayPosts, pagination }) {
     return (
         <>
-        <div className="bg-webpage min-w-screen min-h-screen">
+        <div>
             <PageSEO title={`OurRainbow`} description={siteMetadata.description} />
             <ListLayout
                 posts={posts}
