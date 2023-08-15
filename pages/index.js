@@ -28,7 +28,7 @@ export default function Home({ tags }) {
     return (
         <div>
             <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
-            <div className="h-screen bg-image bg-cover bg-fixed bg-center bg-no-repeat">
+            <div className="min-h-screen bg-image bg-cover bg-fixed bg-center bg-no-repeat">
                 <div className="flex max-h-full flex-col items-center justify-center pt-10">
                     <div className=" shadow-drop-2xl w-6/12 font-Montserrat">
                         <h1 className="text-center text-3xl font-extrabold tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:font-Montserrat md:text-5xl md:leading-14 xl:text-7xl xl:leading-relaxed">

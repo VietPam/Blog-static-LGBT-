@@ -27,10 +27,10 @@ const LayoutWrapper = ({ children }) => {
 
                                     {typeof siteMetadata.headerTitle === 'string' ? (
                                         <div className="text-2xl">
-                                            <h1 className="hidden font-semibold sm:block sm:drop-shadow-md">
+                                            <h1 className="hidden font-semibold sm:block sm:drop-shadow-md font-Montserrat">
                                                 {siteMetadata.headerTitle}
                                             </h1>
-                                            <h3 className="hidden font-light sm:block sm:drop-shadow-md">
+                                            <h3 className="hidden font-light sm:block sm:drop-shadow-md font-Montserrat">
                                                 {siteMetadata.sologan}
                                             </h3>
                                         </div>
@@ -46,7 +46,7 @@ const LayoutWrapper = ({ children }) => {
                                     <Link
                                         key={link.title}
                                         href={link.href}
-                                        className="font-Bold hidden p-1 text-xl font-bold text-gray-900 drop-shadow-md dark:text-gray-100 sm:p-4 lg:block"
+                                        className="font-Bold hidden p-1 text-xl font-Montserrat font-bold text-gray-900 drop-shadow-md dark:text-gray-100 sm:p-4 lg:block"
                                     >
                                         {link.title}
                                     </Link>
@@ -56,7 +56,7 @@ const LayoutWrapper = ({ children }) => {
                             <MobileNav />
                         </div>
                     </header>
-                    <main className="z-0 mb-auto mt-20 bg-webpage">{children}</main>
+                    <main className="z-0 mb-auto mt-20">{children}</main>
                 </div>
             </SectionContainer>
         </div>
