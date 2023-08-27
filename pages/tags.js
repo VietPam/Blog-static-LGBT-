@@ -15,7 +15,7 @@ export default function Tags({ tags }) {
     const sortedTags = Object.keys(tags).sort((a, b) => tags[b] - tags[a])
     return (
         <>
-        <div className="bg-webpage min-h-screen min-h-screen">
+        <div className="bg-webpage min-h-screen min-w-screen">
             <PageSEO title={`Tags - ${siteMetadata.author}`} description="Things I blog about" />
             <div className="flex flex-col items-start justify-start divide-y divide-gray-200 dark:divide-gray-700 md:mt-24 md:flex-row md:items-center md:justify-center md:space-x-6 md:divide-y-0">
                 <div className="space-x-2 pt-6 pb-8 md:space-y-5">

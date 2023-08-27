@@ -20,7 +20,7 @@ export default function App({ Component, pageProps }) {
     const [data, setData] = useState('')
     return (
         <AppContext.Provider value={[data, setData]}>
-            <div>
+            <div className="bg-webpage">
                 <ThemeProvider attribute="class" defaultTheme={siteMetadata.theme}>
                     <Head>
                         <meta content="width=device-width, initial-scale=1" name="viewport" />
