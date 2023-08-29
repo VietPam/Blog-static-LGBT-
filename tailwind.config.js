@@ -12,7 +12,7 @@ module.exports = {
         './lib/**/*.js',
         './data/**/*.mdx',
     ],
-    darkMode: 'class',
+    // darkMode: 'class',
     theme: {
         extend: {
             spacing: {
