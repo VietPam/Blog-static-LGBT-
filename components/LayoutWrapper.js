@@ -15,7 +15,7 @@ const LayoutWrapper = ({ children }) => {
                         <div>
                             <Link href="/" aria-label={siteMetadata.headerTitle}>
                                 <div className="flex items-center justify-between">
-                                    <div className="mr-3">
+                                    <div>
                                         {' '}
                                         <Image
                                             src="/static/images/avatar.png"
@@ -27,10 +27,10 @@ const LayoutWrapper = ({ children }) => {
 
                                     {typeof siteMetadata.headerTitle === 'string' ? (
                                         <div className="text-2xl">
-                                            <h1 className="hidden font-Montserrat font-semibold sm:block sm:drop-shadow-md">
+                                            <h1 className="hidden font-semibold sm:block sm:drop-shadow-md font-Montserrat">
                                                 {siteMetadata.headerTitle}
                                             </h1>
-                                            <h3 className="hidden font-Montserrat font-light sm:block sm:drop-shadow-md">
+                                            <h3 className="hidden font-light sm:block sm:drop-shadow-md font-Montserrat">
                                                 {siteMetadata.sologan}
                                             </h3>
                                         </div>
@@ -46,7 +46,7 @@ const LayoutWrapper = ({ children }) => {
                                     <Link
                                         key={link.title}
                                         href={link.href}
-                                        className="font-Bold hidden p-1 font-Montserrat text-xl font-bold text-gray-900 drop-shadow-md dark:text-gray-100 sm:p-4 lg:block"
+                                        className="font-Bold hidden p-1 text-xl font-Montserrat font-bold text-gray-900 drop-shadow-md dark:text-gray-100 sm:p-4 lg:block"
                                     >
                                         {link.title}
                                     </Link>

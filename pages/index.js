@@ -31,14 +31,14 @@ export default function Home({ tags }) {
             <div className="min-h-screen bg-image bg-cover bg-fixed bg-center bg-no-repeat">
                 <div className="flex max-h-full flex-col items-center justify-center pt-10">
                     <div className=" shadow-drop-2xl w-6/12 font-Montserrat">
-                        <h1 className="text-center text-3xl font-extrabold tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:font-Montserrat md:text-5xl md:leading-14 xl:text-7xl xl:leading-relaxed">
+                        <h1 className="text-center text-4xl font-extrabold tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:font-Montserrat md:text-5xl md:leading-14 xl:text-7xl xl:leading-relaxed">
                             {siteMetadata.headerTitle}
                         </h1>
                         <p className="text-center text-sm font-extralight text-gray-500 dark:text-gray-100 sm:text-lg ">
                             {siteMetadata.description}
                         </p>
                         <div className="pt-10">
-                            <p className="text-center text-xl font-bold text-gray-500 dark:text-gray-100 sm:text-xl sm:leading-10 md:text-xl md:leading-13 xl:text-xl">
+                            <p className="text-center text-lg font-bold text-gray-500 dark:text-gray-100 sm:text-xl sm:leading-10 md:text-xl md:leading-13 xl:text-xl">
                                 BẠN MUỐN TÌM NỘI DUNG NÀO?
                             </p>
                         </div>
