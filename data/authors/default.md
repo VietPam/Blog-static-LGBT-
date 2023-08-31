@@ -3,8 +3,8 @@ name: Pride's Little World
 avatar: /static/images/avatar.png
 occupation: Dự án Nghiên cứu và Ủng hộ cộng đồng LGBTQIA+
 company: Pride’s Little World Team
-email: phamquangviet891@gmail.com
-facebook: https:/facebook.com/phamquangviet891/
+email: prideslittleworld@gmail.com
+facebook: https://www.facebook.com/prideslittleworld
 linkedin: https://www.linkedin.com/phamquangviet891
 github: https://github.com/phamquangviet891
 ---

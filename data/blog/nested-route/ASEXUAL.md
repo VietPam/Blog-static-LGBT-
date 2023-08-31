@@ -3,6 +3,7 @@ title: 'VÔ TÍNH LUYẾN ÁI | ASEXUAL'
 date: '2023-6-23'
 tags: ['Xu hướng tính dục', 'Vô tính luyến ái']
 draft: false
+image: '/static/images/ASEXUAL/Asexual_Pride_Flag.png'
 summary: 'Người Vô tính luyến ái (Asexual) chỉ những người ít hoặc không bị hấp dẫn tình dục, đồng thời không có hoặc ít hấp dẫn tình cảm bởi bất kì ai.'
 ---
 

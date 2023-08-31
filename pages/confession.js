@@ -26,9 +26,9 @@ export default function confess() {
     }
     return (
         <>
-            <div style={divStyle}>
-                <div>
-                    <h1 style={h1Style}>Confession </h1>
+            <div className="h-screen pt-10 flex flex-col px-20">
+                <div >
+                    <h1 className="font-bold text-3xl">Confession </h1>
                     <p>
                         Gửi confession để chia sẻ câu chuyện của bạn với mọi người tại đây. Chúng
                         mình tiếp nhận các câu chuyện liên quan đế hành trình tìm thấy chính bản
@@ -37,14 +37,14 @@ export default function confess() {
                     </p>
                     <a
                         href="https://docs.google.com/forms/d/e/1FAIpQLSczR-pDxjMN-pWGNH2Z6exktRujbt7bSPJbEEQqgm5znjyETw/viewform"
-                        style={linkStyle}
+                        className="inline-block bg-gradient px-8 py-3 leading-5 text-base font-medium rounded-full uppercase transition-all duration-500 ease-in-out mt-6"
                     >
                         Gửi confession
                     </a>
                 </div>
 
                 <div>
-                    <h1 style={h1Style}>Giải đáp thắc mắc cùng chuyên gia </h1>
+                    <h1 className="font-bold text-3xl pt-10">Giải đáp thắc mắc cùng chuyên gia </h1>
                     <p>
                         Đây là nơi bạn có thể đặt những câu hỏi mà bạn thắc mắc liên quan đến giới
                         tính, xu hướng tính dục, bản dạng giới, thể hiện giới, tất cả những chủ đề
@@ -53,7 +53,7 @@ export default function confess() {
                     </p>
                     <a
                         href="https://docs.google.com/forms/d/e/1FAIpQLSeKkBU31zV62t0WPXYa_YhExoF3acNpYlxIc0iEWxe2BXayRw/viewform"
-                        style={linkStyle}
+                        className="inline-block bg-gradient px-8 py-3 leading-5 text-base font-medium rounded-full uppercase transition-all duration-500 ease-in-out mt-6"
                     >
                         Gửi câu hỏi
                     </a>

@@ -3,6 +3,7 @@ title: 'ĐỒNG TÍNH LUYẾN ÁI NỮ | LESBIAN'
 date: '2023-6-23'
 tags: ['Xu hướng tính dục', 'Đồng tính', 'Đồng tính nữ']
 draft: false
+image: '/static/images/LESBIAN/lesbian_flag.png'
 summary: 'Đồng tính luyến ái nữ (hay đồng tính nữ) Chỉ những người nữ bị thu hút về mặt tình cảm và tình dục đối với những người nữ.'
 ---
 

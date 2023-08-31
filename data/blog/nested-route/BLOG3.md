@@ -51,5 +51,5 @@ Tuy nhiên, nếu so sánh với tổng dân số thế giới, tỷ lệ ngư�
 [6] ["How Many Adults Identify as Transgender in the United States?", Williams Institute:](https://williamsinstitute.law.ucla.edu/publications/how-many-adults-identify-as-transgender-in-the-united-states/)\
 [7] ["Understanding Sexual Orientation and Gender Identity" của Human Rights Campaign:](https://www.hrc.org/resources/understanding-sexual-orientation-and-gender-identity)
 [8] ["Sexual Orientation" của American Psychological Association:](https://www.apa.org/topics/lgbtq/sexual-orientation)\
-[9] https://thanhnien.vn/hon-nhan-dong-gioi-tac-dong-the-nao-den-xu-huong-ket-hon-1851502582.htm#:~:text=Theo%20k%E1%BA%BFt%20qu%E1%BA%A3%20c%E1%BB%A7a%20nghi%C3%AAn,11%25%20d%C3%A2n%20s%E1%BB%91%20n%C6%B0%E1%BB%9Bc%20ta.\
+[9] https://thanhnien.vn/hon-nhan-dong-gioi-tac-dong-the-nao-den-xu-huong-ket-hon-1851502582.htm
 [10] https://www.baogiaothong.vn/ca-si-vu-cat-tuong-bat-ngo-come-out-tuyen-bo-se-lay-vo-d558799.html

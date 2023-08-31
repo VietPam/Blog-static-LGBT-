@@ -3,6 +3,7 @@ title: 'BEAR'
 date: '2023-6-23'
 tags: ['Thể hiện giới', 'Bear', 'Đồng tính']
 draft: false
+image: '/static/images/BEAR/Bear_Brotherhood_flag.png'
 summary: 'Bear là thuật ngữ miêu tả thể hiện giới của người đồng tính nam có ngoại hình vạm vỡ, cứng rắn và có những đặc điểm nam tính nổi trội.'
 ---
 

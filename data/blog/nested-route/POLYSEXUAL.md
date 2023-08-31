@@ -3,6 +3,7 @@ title: 'ĐA TÍNH LUYẾN ÁI I POLYSEXUAL'
 date: '2023-6-23'
 tags: ['Xu hướng tính dục', 'Đa tính luyến ái']
 draft: false
+image: '/static/images/POLYSEXUAL/Polysexual-Pride.png'
 summary: 'Thuật ngữ hợp giới chỉ những người có bản dạng giới trùng khớp với giới tính chỉ định sau sinh/giới tính sinh học của họ.'
 ---
 

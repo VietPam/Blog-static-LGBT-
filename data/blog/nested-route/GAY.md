@@ -3,6 +3,7 @@ title: 'ĐỒNG TÍNH LUYẾN ÁI NAM | GAY'
 date: '2023-6-23'
 tags: ['Xu hướng tính dục', 'Đồng tính', 'Đồng tính nam']
 draft: false
+image: '/static/images/GAY/GAY.png'
 summary: 'Đồng tính luyến ái nam (hay đồng tính nam là) Chỉ những người nam bị thu hút về mặt tình cảm và tình dục đối với những người nam.'
 ---
 

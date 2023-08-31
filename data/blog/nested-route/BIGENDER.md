@@ -2,6 +2,7 @@
 title: 'SONG GIỚI | BIGENDER'
 date: '2023-6-23'
 tags: ['Bản dạng giới', 'Bigender', 'Song giới']
+image: '/static/images/BIGENDER/Bigender_Flag.png'
 draft: false
 summary: 'Song giới (Bigender) là thuật ngữ chỉ những người có hai bản dạng giới hoặc một sự kết hợp bởi hai bản dạng giới.'
 ---

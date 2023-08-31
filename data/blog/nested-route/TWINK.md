@@ -3,6 +3,7 @@ title: 'TWINK'
 date: '2023-6-23'
 tags: ['Thể hiện giới', 'Twink', 'Đồng tính']
 draft: false
+image: '/static/images/TWINK/Twink_Flag.png'
 summary: 'Twink là thuật ngữ miêu tả thể hiện giới của người đồng tính nam có ngoại hình mảnh khảnh, nhẹ nhàng và thư sinh.'
 ---
 

@@ -3,6 +3,7 @@ title: 'DRAG | GIỚI TÍNH HAY NGHỆ THUẬT?'
 date: '2023-6-23'
 tags: ['Bản dạng giới', 'Drag', 'Drag queen']
 draft: false
+image: '/static/images/DRAG/Drag-Flag.png'
 summary: 'Khái niệm “Drag” thường được dùng để chỉ những người ăn mặc hay trang điểm hoán giới. Những “Drag Queen” thường là những người nam ăn mặc và trang điểm như nữ giới và “Drag King” thì ngược lại.'
 ---
 

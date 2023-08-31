@@ -3,6 +3,7 @@ title: 'LIPSTICK LESBIAN'
 date: '2023-6-23'
 tags: ['Thể hiện giới', 'Đồng tính', 'Đồng tính nữ']
 draft: false
+image: '/static/images/LIPSTICK_LESBIAN/Lesbian-Lipstick-Pride-Flag.png'
 summary: 'Lipstick Lesbian là thuật ngữ miêu tả thể hiện giới của người đồng tính nữ có ngoại hình nữ tính, nhẹ nhàng và điệu đà.'
 ---
 

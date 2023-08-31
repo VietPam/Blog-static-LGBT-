@@ -3,6 +3,7 @@ title: 'LINH HOẠT GIỚI TÍNH (GENDERFLUID) | Những điều bạn cần bi�
 date: '2023-6-23'
 tags: ['Bản dạng giới', 'Genderfluid']
 draft: false
+image: '/static/images/GENDER_FLUID/gender-fluid-flag.png'
 summary: 'Đa dạng tính dục (Genderqueer) là thuật ngữ bao hàm cả bản dạng giới, thể hiện giới hoặc trải nghiệm khác nhau về giới tính. '
 ---
 

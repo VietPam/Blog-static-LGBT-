@@ -3,6 +3,7 @@ title: 'ĐỒNG MINH | ALLY '
 date: '2023-6-23'
 tags: ['Bản dạng giới', 'Genderfluid']
 draft: false
+image: '/static/images/ALLY/Ally-Pride.jpg'
 summary: 'Đồng minh là người ủng hộ, tôn trọng và đồng hành cùng cộng đồng LGBTQI+. Trên thực tế, đồng minh là người hoạt động sôi nổi trong việc thể hiện quan điểm và công khai ủng hộ mạnh mẽ cộng đồng LGBT.'
 ---
 

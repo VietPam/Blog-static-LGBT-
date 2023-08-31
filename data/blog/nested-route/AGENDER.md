@@ -3,6 +3,7 @@ title: 'VÔ GIỚI | AGENDER'
 date: '2023-6-23'
 tags: ['Bản dạng giới', 'Genderfluid']
 draft: false
+image: '/static/images/AGENDER/Agender_pride_flag.png'
 summary: 'Vô giới (agender hay còn gọi là genderless, genderfree, non-gendered, or ungendered) là thuật ngữ chỉ những người nhận dạng không thuộc giới nào hoặc không nhận dạng giới. Vô tính là người không cho rằng bản thân là nam hay nữ, hoặc cả hai.'
 ---
 

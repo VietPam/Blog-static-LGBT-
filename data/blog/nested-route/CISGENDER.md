@@ -3,6 +3,7 @@ title: 'HỢP GIỚI | CISGENDER'
 date: '2023-6-23'
 tags: ['Bản dạng giới', 'Hợp giới', 'Cisgender']
 draft: false
+image: '/static/images/CISGENDER/Popular_Cisgender.png'
 summary: 'Thuật ngữ hợp giới chỉ những người có bản dạng giới trùng khớp với giới tính chỉ định sau sinh/giới tính sinh học của họ.'
 ---
 

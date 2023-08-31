@@ -3,6 +3,7 @@ title: 'LIÊN GIỚI TÍNH | INTERSEX'
 date: '2023-6-23'
 tags: ['Giới tính sinh học', 'Liên giới tính', 'Intersex']
 draft: false
+image: '/static/images/INTERSEX/Intersex_Pride_Flag.png'
 summary: 'Liên giới tính là thuật ngữ chung cho những người sinh ra với cơ quan sinh dục không nằm trong khuôn khổ “nam” hoặc “nữ”.'
 ---
 

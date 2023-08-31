@@ -3,10 +3,10 @@ title: 'Toàn tính luyến ái là gì? 4 điều có thể bạn chưa biết'
 date: '2023-6-23'
 tags: ['Xu hướng tính dục', 'Đồng tính', 'Toàn tính']
 draft: false
-summary: 'Meta description: Pridess Little World sẽ cùng bạn tìm hiểu về những kiến thức liên quan đến toàn tính luyến ái: khái niệm, cách nhận biết…'
+summary: 'Pridess Little World sẽ cùng bạn tìm hiểu về những kiến thức liên quan đến toàn tính luyến ái: khái niệm, cách nhận biết…'
 ---
 
-Meta description: Pride's Little World sẽ cùng bạn tìm hiểu về những kiến thức liên quan đến toàn tính luyến ái: khái niệm, cách nhận biết…
+Pride's Little World sẽ cùng bạn tìm hiểu về những kiến thức liên quan đến toàn tính luyến ái: khái niệm, cách nhận biết…
 
 # **1. Thế nào là toàn tính luyến ái?**
 

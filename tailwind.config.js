@@ -31,6 +31,7 @@ module.exports = {
             colors: {
                 primary: colors.teal,
                 gray: colors.neutral,
+                dark_blue: '#1E1457'
             },
             backgroundImage: {
                 gradient:

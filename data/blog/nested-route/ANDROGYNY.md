@@ -3,6 +3,7 @@ title: 'TRUNG TÍNH | ANDROGYNY'
 date: '2023-6-23'
 tags: ['Thể hiện giới', 'Trung tính', 'Đồng tính']
 draft: false
+image: '/static/images/ANDROGYNY/ANDROGYNY_FLAG.png'
 summary: 'Người trung tính là người sở hữu cả hai  sự nam tính và nữ tính. Trung tính có thể liên quan đến giới tính sinh học, bản dạng giới hoặc thể hiện giới.'
 ---
 

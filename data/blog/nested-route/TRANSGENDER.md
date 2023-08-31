@@ -3,6 +3,7 @@ title: 'CHUYỂN GIỚI (TRANSGENDER) LÀ GÌ | Những điều cần biết v�
 date: '2023-6-23'
 tags: ['Bản dạng giới', 'Chuyển giới', 'Transgender']
 draft: false
+image: '/static/images/TRANSGENDER/Trans_Pride_Flag.png'
 summary: 'Bear là thuật ngữ miêu tả thể hiện giới của người đồng tính nam có ngoại hình vạm vỡ, cứng rắn và có những đặc điểm nam tính nổi trội.'
 ---
 
