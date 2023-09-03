@@ -31,21 +31,21 @@ export default function Home({ tags }) {
             <div className="min-h-screen bg-image bg-cover bg-fixed bg-center bg-no-repeat">
                 <div className="flex max-h-full flex-col items-center justify-center pt-10">
                     <div className=" shadow-drop-2xl w-6/12 font-Montserrat">
-                        <h1 className="text-center text-4xl font-extrabold tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:font-Montserrat md:text-5xl md:leading-14 xl:text-7xl xl:leading-relaxed">
+                        <h1 className="text-center text-4xl font-extrabold tracking-tight text-gray-100 sm:text-4xl sm:leading-10 md:font-Montserrat md:text-5xl md:leading-14 xl:text-7xl xl:leading-relaxed">
                             {siteMetadata.headerTitle}
                         </h1>
-                        <p className="text-center text-sm font-extralight text-gray-500 dark:text-gray-100 sm:text-lg ">
+                        <p className="text-center text-sm font-extralight text-gray-100 sm:text-lg ">
                             {siteMetadata.description}
                         </p>
                         <div className="pt-10">
-                            <p className="text-center text-lg font-bold text-gray-500 dark:text-gray-100 sm:text-xl sm:leading-10 md:text-xl md:leading-13 xl:text-xl">
+                            <p className="text-center text-lg font-bold  text-gray-100 sm:text-xl sm:leading-10 md:text-xl md:leading-13 xl:text-xl">
                                 BẠN MUỐN TÌM NỘI DUNG NÀO?
                             </p>
                         </div>
                     </div>
                     <div className="relative flex w-3/4 items-center pt-3 sm:w-5/12">
                         <input
-                            aria-label="Search articles"
+                            aria-label="Thanh tìm kiếm"
                             type="text"
                             onKeyDown={async (e) => {
                                 await setData(e.target.value)
@@ -54,7 +54,7 @@ export default function Home({ tags }) {
                                 }
                             }}
                             placeholder="Tìm gì đi má"
-                            className=" ml-16 block w-full rounded-tr-3xl rounded-br-3xl  bg-white px-4 py-2 text-gray-100 focus:border-primary-500 focus:ring-primary-500 dark:border-gray-900 dark:bg-gray-100 dark:text-gray-900"
+                            className=" ml-16 block w-full rounded-tr-3xl rounded-br-3xl  bg-white px-4 py-2 text-gray-100 focus:border-primary-500 focus:ring-primary-500"
                         />
                         <span className="absolute">
                             <Image
@@ -67,19 +67,19 @@ export default function Home({ tags }) {
                     </div>
                 </div>
 
-                <div className="flex flex-col items-center justify-center divide-y divide-gray-200 pt-10 dark:divide-gray-700">
+                <div className="flex flex-col items-center justify-center divide-y divide-gray-200 pt-10">
                     <div className="flex max-w-lg flex-wrap items-center justify-center">
                         {Object.keys(tags).length === 0 && 'No tags found.'}
                         {randomTags.map((t) => {
                             return (
                                 <div
                                     key={t}
-                                    className="mt-2 mb-2 mr-5 inline-flex  items-center rounded-md bg-white bg-opacity-50 p-2"
+                                    className="hover:scale-110 transition-transform duration-300 mt-1 mb-1 mr-2 md:mr-3 inline-flex items-center rounded-xl bg-white bg-opacity-50 p-2 md:p-2"
                                 >
                                     <Tag text={t} />
                                     <Link
                                         href={`/tags/${kebabCase(t)}`}
-                                        className="-ml-2 text-sm font-semibold uppercase text-gray-600 dark:text-gray-300"
+                                        className="text-sm font-semibold uppercase"
                                     ></Link>
                                 </div>
                             )

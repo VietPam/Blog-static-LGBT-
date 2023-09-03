@@ -8,7 +8,7 @@ const ReadMore = ({ children }) => {
   return (
     <p className="text">
       {isReadMore ? text.slice(0, 80) : text}
-      <span onClick={toggleReadMore} class="hover:underline">
+      <span onClick={toggleReadMore} class="hover:underline font-semibold">
         {isReadMore ? "...read more" : " show less"}
       </span>
     </p>

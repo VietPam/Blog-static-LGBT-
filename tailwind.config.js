@@ -15,6 +15,9 @@ module.exports = {
     // darkMode: 'class',
     theme: {
         extend: {
+            fontSize: {
+                'xs': '0.5rem'
+            },
             spacing: {
                 '9/16': '56.25%',
             },

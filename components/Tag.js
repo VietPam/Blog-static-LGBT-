@@ -6,9 +6,9 @@ const Tag = ({ text }) => {
         <Link href={`/tags/${kebabCase(text)}`}>
             <a
                 style={{ color: '#1E1457' }}
-                className="mr-3 text-sm font-bold uppercase text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
+                className="text-xs md:text-sm font-semibold md:font-bold uppercase text-primary-500 hover:text-primary-600"
             >
-                {text.split(' ').join('-')}
+                {text.split(' ').join(' ')}
             </a>
         </Link>
     )

@@ -19,7 +19,7 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
         initialDisplayPosts.length > 0 && !searchValue ? initialDisplayPosts : filteredBlogPosts
     return (
         <>
-            <div className="h-screen divide-y divide-gray-200 pl-10 pr-10 md:pl-24 md:pr-24">
+            <div className="divide-y min-h-screen divide-gray-200 pl-10 pr-10 md:pl-24 md:pr-24">
                 <div className="space-y-2 pt-10 pb-0 text-center md:space-y-5 items-center md:pb-8">
                     <div className="relative flex max-w-screen items-center scale-75 md:scale-100">
                         <input
@@ -60,7 +60,7 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
 
                                     <div className="space-y-3 xl:col-span-3">
                                         <div>
-                                            <h3 className="text-xl md:text-2xl font-bold leading-8 tracking-tight">
+                                            <h3 className="md:text-2xl text-lg font-bold leading-8 tracking-tight">
                                                 <Link
                                                     href={`/blog/${slug}`}
                                                     className="text-dark_blue"
@@ -69,10 +69,16 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
                                                 </Link>
                                             </h3>
 
-                                            <div className="flex flex-wrap">
-                                                {tags.map((tag) => (
-                                                    <Tag key={tag} text={tag} />
-                                                ))}
+                                            <div className="flex">
+                                                {tags.map((tag) => {
+                                                    return (
+                                                    <div
+                                                        key={tag}
+                                                        className="hover:scale-110 transition-transform duration-300 mt-1 mb-1 mr-2 md:mr-3 inline-flex items-center rounded-xl bg-white bg-opacity-50 p-2 md:p-2"
+                                                    >
+                                                        <Tag text={tag} />
+                                                    </div>
+                                                )})}
                                             </div>
                                         </div>
 
