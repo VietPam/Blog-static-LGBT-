@@ -54,7 +54,7 @@ export default function Home({ tags }) {
                                 }
                             }}
                             placeholder="Tìm gì đi má"
-                            className=" ml-16 block w-full rounded-tr-3xl rounded-br-3xl  bg-white px-4 py-2 text-gray-100 focus:border-primary-500 focus:ring-primary-500"
+                            className=" ml-16 block w-full rounded-tr-3xl rounded-br-3xl  bg-white px-4 py-2 text-gray-900 focus:border-primary-500 focus:ring-primary-500"
                         />
                         <span className="absolute">
                             <Image
@@ -74,7 +74,7 @@ export default function Home({ tags }) {
                             return (
                                 <div
                                     key={t}
-                                    className="hover:scale-110 transition-transform duration-300 mt-1 mb-1 mr-2 md:mr-3 inline-flex items-center rounded-xl bg-white bg-opacity-50 p-2 md:p-2"
+                                    className="mt-1 mb-1 mr-2 inline-flex items-center rounded-xl bg-white bg-opacity-50 p-2 transition-transform duration-300 hover:scale-110 md:mr-3 md:p-2"
                                 >
                                     <Tag text={t} />
                                     <Link
