@@ -14,7 +14,7 @@ Nhờ nỗ lực không ngừng nghỉ của các nhà hoạt động vì quyề
 
 # **Một người có thể có nhiều hơn một Label hay không?**
 
-Có thể. Số labels dùng để thể hiện bản thân không bị giới hạn bởi con số nào cả, miễn là chúng không mâu thuẫn với nhau về mặt định nghĩa. Một người có thể vừa là bisexual vừa là demisexual, nếu họ cảm thấy như vậy.
+Có thể. Số labels dùng để thể hiện bản thân không bị giới hạn bởi con số nào cả, miễn là chúng không mâu thuẫn với nhau về mặt ĐỊNH NGHĨA. Một người có thể vừa là bisexual vừa là demisexual, nếu họ cảm thấy như vậy.
 
 # **Có nhất thiết phải có labels hay không / Labelling có bắt buộc hay không?**
 

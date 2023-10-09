@@ -9,7 +9,7 @@ summary: 'Người trung tính là người sở hữu cả hai  sự nam tính 
 
 Người trung tính là người sở hữu cả hai sự nam tính và nữ tính. Trung tính có thể liên quan đến **giới tính sinh học, bản dạng giới hoặc thể hiện giới.**
 
-# **1. Định nghĩa**
+# **1. ĐỊNH NGHĨA**
 
 **Người trung tính (Androgyne)** là người có giới tính là sự pha trộn của cả hai giới tính nhị phân (tính nam và tính nữ). Họ cũng có thể xác định mình không phải nữ hay nam, hoặc không nữ tính cũng không nam tính.
 
@@ -35,6 +35,6 @@ Vì trung tính là một từ khá chung và liên quan đến nhiều thuật 
 
 Hoặc nếu bạn nói bản thân là người trung tính, rất có thể nhiều người sẽ nghĩ bạn đang nói về thể hiện giới của bạn: gu ăn mặc, tính cách,...
 
-Một hiểu lầm khác là nhiều người cho rằng khi ta làm mờ ranh giới và định danh giới tính sẽ dẫn đến biến động hoặc nhầm lẫn xã hội nếu không có vai trò giới tính. Hầu hết lo ngại về người trung tính bắt nguồn từ mối quan tâm sự cân bằng giới trong xã hội. Từ khi định nghĩa về trung tính xuất hiện, thuật ngữ ngày đã thách thức vai trò giới tính và tình dục, cũng như các định kiến.
+Một hiểu lầm khác là nhiều người cho rằng khi ta làm mờ ranh giới và định danh giới tính sẽ dẫn đến biến động hoặc nhầm lẫn xã hội nếu không có vai trò giới tính. Hầu hết lo ngại về người trung tính bắt nguồn từ mối quan tâm sự cân bằng giới trong xã hội. Từ khi ĐỊNH NGHĨA về trung tính xuất hiện, thuật ngữ ngày đã thách thức vai trò giới tính và tình dục, cũng như các định kiến.
 
 Ngoài ra, nghiên cứu cho thấy sự trung tính không được các nhà tuyển dụng hoặc đồng nghiệp đánh giá cao. Với lập luận của họ, họ cho rằng nếu một người phụ nữ thể hiện các đặc điểm của nam giới về mặt ngoại hình hay tư duy sẽ làm mờ ranh giới giới tính ở nơi làm việc. Những người này bị coi thường và bị “ghê sợ” trong môi trường làm việc của mình. Thế nhưng thực tế, những nghiên cứu về mối liên hệ giữa sự nam tính và nữ tính mang lại một người có lòng tự trọng, biết hài lòng với cuộc sống và hôn nhân. Những người trung tính biết cách khiến bản thân hạnh phúc, có cái tôi riêng và là một người cha, mẹ có trách nhiệm. Trong công việc, người trung tính có những góc nhìn độc đáo và khả năng phân tích vấn đề nhạy bén, họ cũng rất linh hoạt về nhận thức và hành vi của mình.

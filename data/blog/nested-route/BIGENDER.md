@@ -9,7 +9,7 @@ summary: 'Song giới (Bigender) là thuật ngữ chỉ những người có ha
 
 Song giới (Bigender) là thuật ngữ chỉ những người có hai bản dạng giới hoặc một sự kết hợp bởi hai bản dạng giới. Ví dụ như nhận dạng bản thân là nam và nữ hoặc một người vô tính (agender) và nữ. Thuật ngữ này không có gì để hiểu nhầm với song tính, những người có xu hướng cảm xúc, lãng mạn hoặc thu hút tình dục bởi cả hai giới.
 
-# **1. Định nghĩa**
+# **1. ĐỊNH NGHĨA**
 
 **Song giới (Bigender)** là bản dạng giới phi nhị nguyên giới (non-binary), dành cho những người có đồng thời hai bản dạng giới khác nhau hoặc linh hoạt giữa các giới. Nếu quá trình “dịch chuyển” giữa hai bản dạng giới diễn ra thường xuyên, họ có cũng có thể nhận dạng mình là **linh hoạt giới tính (genderfluid).**
 

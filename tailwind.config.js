@@ -56,7 +56,7 @@ module.exports = {
                         h1: {
                             fontWeight: '700',
                             letterSpacing: theme('letterSpacing.tight'),
-                            color: theme('colors.gray.900'),
+                            color: '#1E1457' ,
                         },
                         h2: {
                             fontWeight: '700',

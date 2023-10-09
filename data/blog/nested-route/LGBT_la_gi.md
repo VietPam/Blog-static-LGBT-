@@ -8,7 +8,7 @@ summary: 'LGBT là cộng đồng của những người đồng tính, song tí
 
 LGBT là cộng đồng của những người đồng tính, song tính, chuyển giới và các nhóm tính dục phi dị tính hợp giới khác.
 
-# **1. Định nghĩa:**
+# **1. ĐỊNH NGHĨA:**
 
 LGBTQIA+ là viết tắt của lesbian (đồng tính nữ), gay (đồng tính nam), bisexual (song tính), transgender (chuyển giới), queer (đa dạng tính dục) hoặc questioning (đang trong giai đoạn tìm hiểu bản thân), intersex, asexual (vô tính luyến ái), và hơn thế nữa. Thuật ngữ này cũng có thể được rút gọn thành LGBT, LGBT+, LGBTQI+,…
 
@@ -16,7 +16,7 @@ LGBTQIA+ là viết tắt của lesbian (đồng tính nữ), gay (đồng tính
 
 Lá cờ cầu vồng 6 màu đại diện cho LGBTQ+, màu cờ thể hiện sự đa sắc, đa dạng trong giới tính, định với và đa dạng xu hướng tính dục. Chúng ta đều có thể là một phần của cộng đồng LGBTQ+.
 
-Ví dụ, nếu bạn dễ bị thu hút bởi vẻ đẹp tri thức của một ai đó thì bạn có xu hướng tính dục Sapiosexual, hay Demisexual (người á tính) - thuật ngữ chỉ những người chỉ bị thu hút bởi những người có có mối quan hệ gắn kết lâu dài từ trước. Những định nghĩa này có thể áp dụng lên cả những người thuộc cộng đồng LGBTQ+ và dị tính luyến ái.
+Ví dụ, nếu bạn dễ bị thu hút bởi vẻ đẹp tri thức của một ai đó thì bạn có xu hướng tính dục Sapiosexual, hay Demisexual (người á tính) - thuật ngữ chỉ những người chỉ bị thu hút bởi những người có có mối quan hệ gắn kết lâu dài từ trước. Những ĐỊNH NGHĨA này có thể áp dụng lên cả những người thuộc cộng đồng LGBTQ+ và dị tính luyến ái.
 
 # **2. Ý nghĩa của cộng đồng LGBTQ+ đối với xã hội**
 

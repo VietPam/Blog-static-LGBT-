@@ -4,7 +4,7 @@ import ListLayout from '@/layouts/ListLayout'
 import { PageSEO } from '@/components/SEO'
 import { AppContext } from '../context/context_search'
 import React, { useState, useContext } from 'react'
-export const POSTS_PER_PAGE = 5
+export const POSTS_PER_PAGE = 10
 
 export async function getStaticProps() {
     const posts = await getAllFilesFrontMatter('blog')

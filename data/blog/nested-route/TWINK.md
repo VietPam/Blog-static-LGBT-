@@ -9,9 +9,9 @@ summary: 'Twink là thuật ngữ miêu tả thể hiện giới của người 
 
 Twink là thuật ngữ miêu tả thể hiện giới của người đồng tính nam có ngoại hình mảnh khảnh, nhẹ nhàng và thư sinh.
 
-# **1. Định nghĩa**
+# **1. ĐỊNH NGHĨA**
 
-**Twink** là thuật ngữ miêu tả thể hiện giới (hoặc bản dạng giới, giới tính), định nghĩa tùy thuộc vào người được hỏi. Thuật ngữ chỉ những người thuộc cộng đồng đồng tính nam đi ngược lại với nam tính truyền thống bằng việc thể hiện đặc điểm nữ tính qua ngoại hình, sở thích, và biểu hiện của các đặc điểm giới tính truyền thống hoặc mối quan hệ cá nhân.
+**Twink** là thuật ngữ miêu tả thể hiện giới (hoặc bản dạng giới, giới tính), ĐỊNH NGHĨA tùy thuộc vào người được hỏi. Thuật ngữ chỉ những người thuộc cộng đồng đồng tính nam đi ngược lại với nam tính truyền thống bằng việc thể hiện đặc điểm nữ tính qua ngoại hình, sở thích, và biểu hiện của các đặc điểm giới tính truyền thống hoặc mối quan hệ cá nhân.
 
 Thuật ngữ Twink có thể dùng để miêu tả người đồng tính nam gầy, nhỏ con và bóng bẩy, râu tóc thưa, mỏng, hoặc không có. Twink là những người nằm ở độ tuổi 20, vừa kết thúc tuổi vị thành niên hoặc trong họ trẻ hơn tuổi thật.
 
