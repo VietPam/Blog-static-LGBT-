@@ -6,7 +6,7 @@ module.exports = {
         node: true,
         es6: true,
     },
-    extends: [],
+    extends: ['next', 'next/core-web-vitals'],
     rules: {
         'prettier/prettier': 'error',
         'react/react-in-jsx-scope': 'off',
