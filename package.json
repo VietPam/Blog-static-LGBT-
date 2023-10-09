@@ -48,6 +48,7 @@
         "cross-env": "^7.0.3",
         "dedent": "^0.7.0",
         "eslint": "^7.29.0",
+        "eslint-plugin-prettier": "^5.0.0",
         "file-loader": "^6.0.0",
         "globby": "11.0.3",
         "husky": "^6.0.0",
@@ -60,9 +61,6 @@
         "socket.io-client": "^4.4.0"
     },
     "lint-staged": {
-        "*.+(js|jsx|ts|tsx)": [
-            "eslint --fix"
-        ],
         "*.+(js|jsx|ts|tsx|json|css|md|mdx)": [
             "prettier --write"
         ]
