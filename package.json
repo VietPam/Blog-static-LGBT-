@@ -47,19 +47,20 @@
         "@svgr/webpack": "^6.1.2",
         "cross-env": "^7.0.3",
         "dedent": "^0.7.0",
-        "eslint": "^7.29.0",
+        "eslint": "^8.0.0",
+        "eslint-plugin-prettier": "^5.0.0",
         "file-loader": "^6.0.0",
         "globby": "11.0.3",
         "husky": "^6.0.0",
         "inquirer": "^8.1.1",
         "lint-staged": "^11.0.0",
         "next-remote-watch": "^1.0.0",
-        "prettier": "^2.5.1",
         "prettier-plugin-tailwindcss": "^0.1.4",
         "socket.io": "^4.4.0",
         "socket.io-client": "^4.4.0"
     },
     "lint-staged": {
+
         "*.+(js|jsx|ts|tsx)": [
            
         ],

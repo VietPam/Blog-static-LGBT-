@@ -16,7 +16,7 @@ module.exports = {
     theme: {
         extend: {
             fontSize: {
-                'xs': '0.5rem'
+                xs: '0.5rem',
             },
             spacing: {
                 '9/16': '56.25%',
@@ -34,7 +34,7 @@ module.exports = {
             colors: {
                 primary: colors.teal,
                 gray: colors.neutral,
-                dark_blue: '#1E1457'
+                dark_blue: '#1E1457',
             },
             backgroundImage: {
                 gradient:

@@ -19,13 +19,14 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
         initialDisplayPosts.length > 0 && !searchValue ? initialDisplayPosts : filteredBlogPosts
     return (
         <>
-            <div className="divide-y min-h-screen divide-gray-200 pl-10 pr-10 md:pl-24 md:pr-24">
-                <div className="space-y-2 pt-10 pb-0 text-center md:space-y-5 items-center md:pb-8">
-                    <div className="relative flex max-w-screen items-center scale-75 md:scale-100">
+            <div className="min-h-screen divide-y divide-gray-200 pl-10 pr-10 md:pl-24 md:pr-24">
+                <div className="items-center space-y-2 pt-10 pb-0 text-center md:space-y-5 md:pb-8">
+                    <div className="max-w-screen relative flex scale-75 items-center md:scale-100">
                         <input
                             aria-label="Search articles"
                             type="text"
                             onChange={(e) => setSearchValue(e.target.value)}
+
                             placeholder={data !== "" ? data : "Tìm gì đi nè!😍🥰😙"}
                             className=" ml-16 block w-full rounded-md border border-gray-300 bg-white px-4 text-gray-900 focus:border-primary-500 focus:ring-primary-500"
                         />
@@ -38,6 +39,7 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
                             />
                         </span>
                     </div>
+
                     
                     <h1 className="text-xl font-extrabold leading-9 tracking-tight sm:text-3xl sm:leading-10 md:text-4xl md:leading-14 text-dark_blue">
                         {title}
@@ -45,7 +47,7 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
                 </div>
                 <ul>
                     <div className="text-dark_blue">
-                    {!filteredBlogPosts.length && 'No posts found.'}
+                        {!filteredBlogPosts.length && 'No posts found.'}
                     </div>
                     {displayPosts.map((frontMatter) => {
                         const { slug, date, title, summary, tags } = frontMatter
@@ -61,7 +63,7 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
 
                                     <div className="space-y-3 xl:col-span-3">
                                         <div>
-                                            <h3 className="md:text-2xl text-lg font-bold leading-8 tracking-tight">
+                                            <h3 className="text-lg font-bold leading-8 tracking-tight md:text-2xl">
                                                 <Link
                                                     href={`/blog/${slug}`}
                                                     className="text-dark_blue"
@@ -73,20 +75,19 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
                                             <div className="flex">
                                                 {tags.map((tag) => {
                                                     return (
-                                                    <div
-                                                        key={tag}
-                                                        className="hover:scale-110 transition-transform duration-300 mt-1 mb-1 mr-2 md:mr-3 inline-flex items-center rounded-xl bg-white bg-opacity-50 p-2 md:p-2"
-                                                    >
-                                                        <Tag text={tag} />
-                                                    </div>
-                                                )})}
+                                                        <div
+                                                            key={tag}
+                                                            className="mt-1 mb-1 mr-2 inline-flex items-center rounded-xl bg-white bg-opacity-50 p-2 transition-transform duration-300 hover:scale-110 md:mr-3 md:p-2"
+                                                        >
+                                                            <Tag text={tag} />
+                                                        </div>
+                                                    )
+                                                })}
                                             </div>
                                         </div>
 
-                                        <div className="prose max-w-none text-gray-700 text-sm md:text-lg">
-                                        <ReadMore>
-                                            {summary}
-                                        </ReadMore>
+                                        <div className="prose max-w-none text-sm text-gray-700 md:text-lg">
+                                            <ReadMore>{summary}</ReadMore>
                                         </div>
                                     </div>
                                 </article>

@@ -6,15 +6,16 @@ import { getAllFilesFrontMatter } from '@/lib/mdx'
 import Link from '../components/Link'
 export async function getStaticProps() {
     const posts = await getAllFilesFrontMatter('blog')
-    return { props: {posts} }
+    return { props: { posts } }
 }
-export default function Projects({posts}) {
+export default function Projects({ posts }) {
     return (
         <>
             <PageSEO
                 title={`Projects - ${siteMetadata.author}`}
                 description={siteMetadata.description}
             />
+
             <div className="p-7 md:p-12 flex flex-col items-center">
                 <h1 className="text-center font-bold text-3xl text-gray-100 md:text-5xl xl:text-7xl ">XU HƯỚNG TÍNH DỤC</h1>
                 <div className="mb-10 flex flex-col-reverse md:flex-col justify-center  items-center">
@@ -23,31 +24,29 @@ export default function Projects({posts}) {
                     </div>
 
                     <div className="flex flex-wrap items-center  justify-center">
-                    {posts.map((frontMatter) => {
-                        const { slug, date, title, summary, image,tags } = frontMatter
-                        if (image) {
-                            return (
-                              <div className="md:w-1/3" key={slug}>
-                                <Card
-                                  imgSrc={image}
-                                  href={`/blog/${slug}`}
-                                  description={summary}
-                                />
-                              </div>
-                            )
-                          }
-                          return null;
-                    })}
+                        {posts.map((frontMatter) => {
+                            const { slug, date, title, summary, image, tags } = frontMatter
+                            if (image) {
+                                return (
+                                    <div className="md:w-1/3" key={slug}>
+                                        <Card
+                                            imgSrc={image}
+                                            href={`/blog/${slug}`}
+                                            description={summary}
+                                        />
+                                    </div>
+                                )
+                            }
+                            return null
+                        })}
                     </div>
                 </div>
-                <div className="hover:scale-110 transition-transform duration-300">
-                    <Link href={"/blog"}>
-                        <a
-                            className="rounded-full text-center bg-gradient text-white font-Montserrat font-semibold px-8 py-3"
-                        >
+                <div className="transition-transform duration-300 hover:scale-110">
+                    <Link href={'/blog'}>
+                        <a className="rounded-full bg-gradient px-8 py-3 text-center font-Montserrat font-semibold text-white">
                             Xem thêm
                         </a>
-                    </Link> 
+                    </Link>
                 </div>
             </div>
         </>

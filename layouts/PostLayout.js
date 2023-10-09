@@ -26,6 +26,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                 authorDetails={authorDetails}
                 {...frontMatter}
             />
+
             <article className="p-10 bg-white">
                 <div className="xl:divide-y xl:divide-gray-200 xl:dark:divide-gray-700">
                     <header className="pt-6 xl:pb-6">
@@ -72,9 +73,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                                             )}
                                             <dl className="whitespace-nowrap text-sm font-medium leading-5">
                                                 <dt className="sr-only">Name</dt>
-                                                <dd className="text-black">
-                                                    {author.name}
-                                                </dd>
+                                                <dd className="text-black">{author.name}</dd>
                                                 <dt className="sr-only">Twitter</dt>
                                                 <dd>
                                                     {author.twitter && (
@@ -97,8 +96,21 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                             </dd>
                         </dl>
                         <div className="divide-y divide-gray-200 xl:col-span-3 xl:row-span-2 xl:pb-0">
-                            <div className="prose max-w-none pt-10 pb-8 text-black font-Montserrat">
+                            <div className="prose max-w-none pt-10 pb-8 font-Montserrat text-dark_blue">
                                 {children}
+                                <div className="inline-flex text-xl font-semibold uppercase underline">
+                                    Từ khóa:{' '}
+                                </div>
+                                <div className="mt-2 mb-2 mr-5 inline-flex items-center gap-3 rounded-md bg-opacity-50 p-2">
+                                    {tags.map((tag, index) => (
+                                        <div
+                                            key={index}
+                                            className={`rounded-md bg-pink-300 p-1 text-sm font-semibold text-white`}
+                                        >
+                                            {tag}
+                                        </div>
+                                    ))}
+                                </div>
                             </div>
                             {/* <div className="pt-6 pb-6 text-sm text-gray-700 dark:text-gray-300">
                                 <Link href={discussUrl(slug)} rel="nofollow">

@@ -3,12 +3,12 @@ import Image from '@/components/Image'
 import { PageSEO } from '@/components/SEO'
 
 export default function AuthorLayout({ children, frontMatter }) {
-    const { name, avatar, occupation, company, email, twitter, linkedin, facebook} = frontMatter
+    const { name, avatar, occupation, company, email, twitter, linkedin, facebook } = frontMatter
 
     return (
         <>
             <PageSEO title={`About - ${name}`} description={`About me - ${name}`} />
-            <div className="min-h-screen p-8 divide-y divide-gray-200 font-Montserrat">
+            <div className="min-h-screen divide-y divide-gray-200 p-8 font-Montserrat">
                 <div className="space-y-2 pt-6 pb-8 md:space-y-5">
                     <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
                         Thông tin dự án
@@ -33,7 +33,7 @@ export default function AuthorLayout({ children, frontMatter }) {
                             <SocialIcon kind="facebook" href={facebook} />
                         </div>
                     </div>
-                    <div className="rounded-2xl text-lg prose max-w-none text-justify pt-8 pb-8 text-white xl:col-span-2">
+                    <div className="prose max-w-none rounded-2xl pt-8 pb-8 text-justify text-lg text-white xl:col-span-2">
                         {children}
                     </div>
                 </div>

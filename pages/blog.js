@@ -19,15 +19,15 @@ export async function getStaticProps() {
 export default function Blog({ posts, initialDisplayPosts, pagination }) {
     return (
         <>
-        <div className="">
-            <PageSEO title={`OurRainbow`} description={siteMetadata.description} />
-            <ListLayout
-                posts={posts}
-                initialDisplayPosts={initialDisplayPosts}
-                pagination={pagination}
-                title="Tất cả bài viết"
-            />
-        </div>
+            <div className="">
+                <PageSEO title={`Pride's Little World`} description={siteMetadata.description} />
+                <ListLayout
+                    posts={posts}
+                    initialDisplayPosts={initialDisplayPosts}
+                    pagination={pagination}
+                    title="Tất cả bài viết"
+                />
+            </div>
         </>
     )
 }
