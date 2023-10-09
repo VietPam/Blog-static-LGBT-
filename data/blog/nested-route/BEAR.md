@@ -9,9 +9,9 @@ summary: 'Bear là thuật ngữ miêu tả thể hiện giới của người �
 
 Bear là thuật ngữ miêu tả thể hiện giới của người đồng tính nam có ngoại hình vạm vỡ, cứng rắn và có những đặc điểm nam tính nổi trội.
 
-# **1. Định nghĩa**
+# **1. ĐỊNH NGHĨA**
 
-Bear, là thuật ngữ miêu tả thể hiện giới (hoặc bản dạng giới, giới tính), định nghĩa tùy thuộc vào người được hỏi, chủ yếu được sử dụng bởi những người đồng tính nam, đề cập đến một nhóm những người đàn ông chấp nhận phá bỏ định nghĩa nam tính truyền thống và bất chấp những khuôn mẫu nữ tính thường áp dụng cho những người đồng tính nam. Bear có thể được xác định bởi ngoại hình, sở thích, biểu hiện của các đặc điểm giới tính truyền thống hoặc mối quan hệ cá nhân.\
+Bear, là thuật ngữ miêu tả thể hiện giới (hoặc bản dạng giới, giới tính), ĐỊNH NGHĨA tùy thuộc vào người được hỏi, chủ yếu được sử dụng bởi những người đồng tính nam, đề cập đến một nhóm những người đàn ông chấp nhận phá bỏ ĐỊNH NGHĨA nam tính truyền thống và bất chấp những khuôn mẫu nữ tính thường áp dụng cho những người đồng tính nam. Bear có thể được xác định bởi ngoại hình, sở thích, biểu hiện của các đặc điểm giới tính truyền thống hoặc mối quan hệ cá nhân.\
 Thuật ngữ Bear có thể dùng để miêu tả người đồng tính to lớn, đầy đặn và rậm rạp, râu tóc dày. Bear là những người trên 30 tuổi, hoặc trong có vẻ chững chạc, trưởng thành hơn tuổi thật. Bear có những đặc điểm ngoại hình thường được cho là "nam tính truyền thống" hoặc "trai thẳng". Tuy nhiên, có một cuộc tranh luận trong cộng đồng gấu về khả năng chấp nhận nữ tính, tương đồng với đặc điểm nhận dạng của **Twink** và **Femme**.
 
 ![Alt text](/static/images/BEAR/Bear_Brotherhood_flag.png 'Cờ tự hào của Bear')

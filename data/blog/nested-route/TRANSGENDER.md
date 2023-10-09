@@ -9,9 +9,9 @@ summary: 'Bear là thuật ngữ miêu tả thể hiện giới của người �
 
 Bear là thuật ngữ miêu tả thể hiện giới của người đồng tính nam có ngoại hình vạm vỡ, cứng rắn và có những đặc điểm nam tính nổi trội.
 
-# **1. Định nghĩa**
+# **1. ĐỊNH NGHĨA**
 
-**Người chuyển giới (transgender)** hay còn gọi là người hoán tính, được định nghĩa là những người cảm thấy không phù hợp với giới tính được chỉ định sau sinh. Người phi nhị nguyên giới (non-binary) và linh hoạt giới (genderfluid) có thể nhận định bản thân là transgender theo định nghĩa trên.
+**Người chuyển giới (transgender)** hay còn gọi là người hoán tính, được ĐỊNH NGHĨA là những người cảm thấy không phù hợp với giới tính được chỉ định sau sinh. Người phi nhị nguyên giới (non-binary) và linh hoạt giới (genderfluid) có thể nhận định bản thân là transgender theo ĐỊNH NGHĨA trên.
 
 Cần tránh nhầm lẫn rằng người chưa thực hiện phẫu thuật chuyển giới không phải là người chuyển giới, trên thực tế có rất nhiều người chuyển giới vẫn chưa hoặc không thực hiện phẫu thuật chuyển giới. Và người chuyển giới hoàn toàn có quyền quyết định thực hiện phẫu thuật trên cơ thể mình hoặc không.
 

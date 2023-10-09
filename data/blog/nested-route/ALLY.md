@@ -9,9 +9,9 @@ summary: 'Đồng minh là người ủng hộ, tôn trọng và đồng hành c
 
 Đồng minh là người ủng hộ, tôn trọng và đồng hành cùng cộng đồng LGBTQI+. Trên thực tế, đồng minh là người hoạt động sôi nổi trong việc thể hiện quan điểm và công khai ủng hộ mạnh mẽ cộng đồng LGBT.
 
-# **1. Định nghĩa**
+# **1. ĐỊNH NGHĨA**
 
-Đồng minh hoặc đồng minh dị tính (Ally, Straight Ally) thuật ngữ chỉ các cá nhân hay các nhóm người là người hợp giới, dị tính (heterosexual), dị ái (heteromantic), ủng hộ các nỗ lực, hoạt động và đấu tranh vì quyền lợi của cộng đồng LGBTQI+. Đây không phải nhãn tính dục nên chữ A trong LGBTA+ không phải là Ally mà là Asexual (vô tính), Aromantic (vô ái), Agender (vô giới), Abroromantic, androgyne và rất nhiều định nghĩa khác trong LGBTA+ bắt đầu bằng chữ A.
+Đồng minh hoặc đồng minh dị tính (Ally, Straight Ally) thuật ngữ chỉ các cá nhân hay các nhóm người là người hợp giới, dị tính (heterosexual), dị ái (heteromantic), ủng hộ các nỗ lực, hoạt động và đấu tranh vì quyền lợi của cộng đồng LGBTQI+. Đây không phải nhãn tính dục nên chữ A trong LGBTA+ không phải là Ally mà là Asexual (vô tính), Aromantic (vô ái), Agender (vô giới), Abroromantic, androgyne và rất nhiều ĐỊNH NGHĨA khác trong LGBTA+ bắt đầu bằng chữ A.
 
 Người đồng minh lựa chọn việc cho xã hội thấy mình là đồng minh của cộng đồng LGBT và chấp nhận sự kì thị không mong muốn từ bộ phận người kì thị đồng tính,... Một điểm chung với cộng đồng LGBT là đồng mình cũng có thể trải qua quá trình “công khai bản thân”, dù điều này ít được ghi nhận.
 

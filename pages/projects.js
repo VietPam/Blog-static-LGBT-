@@ -15,18 +15,12 @@ export default function Projects({ posts }) {
                 title={`Projects - ${siteMetadata.author}`}
                 description={siteMetadata.description}
             />
-            <div className="flex flex-col items-center p-7 md:p-12">
-                <h1 className="text-center text-3xl font-bold md:text-5xl xl:text-7xl ">
-                    XU HƯỚNG TÍNH DỤC
-                </h1>
-                <div className="mb-10 flex flex-col-reverse items-center justify-center  md:flex-col">
+
+            <div className="p-7 md:p-12 flex flex-col items-center">
+                <h1 className="text-center font-bold text-3xl text-gray-100 md:text-5xl xl:text-7xl ">XU HƯỚNG TÍNH DỤC</h1>
+                <div className="mb-10 flex flex-col-reverse md:flex-col justify-center  items-center">
                     <div className="font-Montserrat md:p-10">
-                        <p className="mt-10  rounded-xl bg-gradient  p-4 text-justify text-sm font-semibold drop-shadow-xl md:text-sm xl:text-xl">
-                            " (Sexual Orientation): Khái niệm chỉ sự thu hút tình dục và tình cảm
-                            đối với giới nào: cùng giới, khác giới, nhiều giới hay không một giới
-                            nào. Sự thu hút tình dục và tình cảm của một số người có thể đồng nhất
-                            với nhau, số khác thì không. "
-                        </p>
+                            <p className="text-sm  md:text-sm xl:text-xl text-gray-100 text-justify mt-10 rounded-xl bg-gradient drop-shadow-xl p-4 font-semibold" >" (Sexual Orientation): Khái niệm chỉ sự thu hút tình dục và tình cảm đối với giới nào: cùng giới, khác giới, nhiều giới hay không một giới nào. Sự thu hút tình dục và tình cảm của một số người có thể đồng nhất với nhau, số khác thì không. "</p>
                     </div>
 
                     <div className="flex flex-wrap items-center  justify-center">

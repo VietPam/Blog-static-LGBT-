@@ -26,8 +26,9 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
                             aria-label="Search articles"
                             type="text"
                             onChange={(e) => setSearchValue(e.target.value)}
-                            placeholder={data !== '' ? data : 'Tìm gì đi má'}
-                            className=" ml-16 block w-full rounded-md border border-gray-300 bg-white px-4 text-gray-100 focus:border-primary-500 focus:ring-primary-500 dark:border-gray-900 dark:bg-gray-100 dark:text-gray-900"
+
+                            placeholder={data !== "" ? data : "Tìm gì đi nè!😍🥰😙"}
+                            className=" ml-16 block w-full rounded-md border border-gray-300 bg-white px-4 text-gray-900 focus:border-primary-500 focus:ring-primary-500"
                         />
                         <span className="absolute">
                             <Image
@@ -38,7 +39,9 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
                             />
                         </span>
                     </div>
-                    <h1 className="text-xl font-extrabold leading-9 tracking-tight text-dark_blue sm:text-3xl sm:leading-10 md:text-4xl md:leading-14">
+
+                    
+                    <h1 className="text-xl font-extrabold leading-9 tracking-tight sm:text-3xl sm:leading-10 md:text-4xl md:leading-14 text-dark_blue">
                         {title}
                     </h1>
                 </div>

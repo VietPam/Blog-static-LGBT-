@@ -26,8 +26,8 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                 authorDetails={authorDetails}
                 {...frontMatter}
             />
-            <ScrollTopAndComment />
-            <article className="bg-white p-10">
+
+            <article className="p-10 bg-white">
                 <div className="xl:divide-y xl:divide-gray-200 xl:dark:divide-gray-700">
                     <header className="pt-6 xl:pb-6">
                         <div className="space-y-1 text-center">

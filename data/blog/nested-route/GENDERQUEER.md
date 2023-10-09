@@ -8,7 +8,7 @@ summary: 'Đa dạng tính dục (Genderqueer) là thuật ngữ bao hàm cả b
 
 Đa dạng tính dục (Genderqueer) là thuật ngữ bao hàm cả bản dạng giới, thể hiện giới hoặc trải nghiệm khác nhau về giới tính. Thuật ngữ này có thể dùng cho những có nhân mong muốn được định danh như một queer (thuộc cộng đồng LGBTQIA+ hoặc một giới tính không theo quy chuẩn và không liên quan đến giới tính sinh học của họ.)
 
-# **1. Định nghĩa**
+# **1. ĐỊNH NGHĨA**
 
 **Đa dạng tính dục (Genderqueer)** là thuật ngữ chỉ những người không tuân theo hệ nhị nguyên giới. Họ có thể là phi nhị nguyên với, vô giới, đa giới, và linh hoạt giới tính, hoặc một bản dạng giới khác. Mọi người đã dùng thuật ngữ này từ những thập niên 90.
 Thuật ngữ Genderqueer có những nét tương đồng với phi nhị nguyên giới (non-binary), vì rất nhiều người phi nhị nguyên giới nhận định bản thân là một genderqueer. Tuy những, những thuật ngữ này vẫn có các góc nhìn lịch sử và hàm ý khác nhau. Từ Đa dạng tính dục (Genderqueer) được dùng trước non-binary 10 năm.
