@@ -53,7 +53,7 @@ export default function Home({ tags }) {
                                     router.push('/blog')
                                 }
                             }}
-                            placeholder="Tìm gì đi má"
+                            placeholder="Tìm gì đi nè!😍🥰😙"
                             className=" ml-16 block w-full rounded-tr-3xl rounded-br-3xl  bg-white px-4 py-2 text-gray-900 focus:border-primary-500 focus:ring-primary-500"
                         />
                         <span className="absolute">

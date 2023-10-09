@@ -9,7 +9,7 @@ summary: 'Liên giới tính là thuật ngữ chung cho những người sinh r
 
 Liên giới tính là thuật ngữ chung cho những người sinh ra với cơ quan sinh dục không nằm trong khuôn khổ “nam” hoặc “nữ”. Theo thông tin về y học nói chung, liên giới tính vô cùng đa dạng và mang tính chuyên môn. Nên Our Rainbow chúng tớ xin phép chỉ đi qua những thông tin dễ hiểu và khái quát nhất.
 
-# **1. Định nghĩa**
+# **1. ĐỊNH NGHĨA**
 
 Liên giới tính là những có nhân sinh ra với sự bao gồm đặc điểm của các giới tính trong đó có nhiễm sắc thể, tuyến sinh dục, hoặc bộ phận sinh dục. Liên giới tính là một giới tính sinh học riêng biệt được cho là không nằm trong quan niệm nhị phân điển hình về cơ thể nam và nữ.
 

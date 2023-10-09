@@ -9,7 +9,7 @@ summary: 'Thuật ngữ hợp giới chỉ những người có bản dạng gi�
 
 Thuật ngữ hợp giới chỉ những người có bản dạng giới trùng khớp với giới tính chỉ định sau sinh/giới tính sinh học của họ.
 
-# **1. Định nghĩa**
+# **1. ĐỊNH NGHĨA**
 
 **Những khái niệm cơ bản:**
 Thuật ngữ hợp giới chỉ những người có bản dạng giới trùng khớp với giới tính chỉ định sau sinh/giới tính sinh học của họ. Chẳng hạn một người sinh ra được xác định là nam, và họ cũng nhận định mình là nam, hoặc một người sinh ra là nữ và xác định họ là nữ, những người này được xem là người hợp giới. Đây cũng là trường hợp đa số trong xã hội chúng ta.

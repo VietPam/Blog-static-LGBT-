@@ -27,10 +27,10 @@ const LayoutWrapper = ({ children }) => {
 
                                     {typeof siteMetadata.headerTitle === 'string' ? (
                                         <div className="text-2xl">
-                                            <h1 className="hidden font-semibold sm:block sm:drop-shadow-md font-Montserrat">
+                                            <h1 className="hidden font-semibold sm:block sm:drop-shadow-md sm:text-gray-100 font-Montserrat">
                                                 {siteMetadata.headerTitle}
                                             </h1>
-                                            <h3 className="hidden font-light sm:block sm:drop-shadow-md font-Montserrat">
+                                            <h3 className="hidden font-light sm:block sm:drop-shadow-md sm:text-gray-100 font-Montserrat">
                                                 {siteMetadata.sologan}
                                             </h3>
                                         </div>
@@ -46,13 +46,13 @@ const LayoutWrapper = ({ children }) => {
                                     <Link
                                         key={link.title}
                                         href={link.href}
-                                        className="font-Bold hidden p-1 text-xl font-Montserrat font-bold text-gray-900 drop-shadow-md dark:text-gray-100 sm:p-4 lg:block"
+                                        className="font-Bold hidden p-1 text-xl font-Montserrat font-bold drop-shadow-md xl:text-gray-100 sm:p-4 lg:block"
                                     >
                                         {link.title}
                                     </Link>
                                 ))}
                             </div>
-                            <ThemeSwitch />
+                            {/* <ThemeSwitch /> */}
                             <MobileNav />
                         </div>
                     </header>

@@ -9,7 +9,7 @@ summary: 'Người Vô tính luyến ái (Asexual) chỉ những người ít ho
 
 **Người Vô tính luyến ái (Asexual)** chỉ những người ít hoặc không bị hấp dẫn tình dục, đồng thời không có hoặc ít hấp dẫn tình cảm bởi bất kì ai.
 
-# **1. Định nghĩa:**
+# **1. ĐỊNH NGHĨA:**
 
 Người vô tính hữu ái có thể là nam, nữ, người chuyển giới, phi nhị phân. Vô tính là một xu hướng tính dục có khuynh hướng lâu dài, vĩnh viễn, không thể thay đổi. Những người Vô tính ít hoặc không bị hấp dẫn bởi các hoạt động tình dục hay các mối quan hệ lãng mạn.
 

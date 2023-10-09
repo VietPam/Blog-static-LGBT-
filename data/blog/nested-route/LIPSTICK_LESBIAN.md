@@ -9,9 +9,9 @@ summary: 'Lipstick Lesbian là thuật ngữ miêu tả thể hiện giới củ
 
 Lipstick Lesbian là thuật ngữ miêu tả thể hiện giới của người đồng tính nữ có ngoại hình nữ tính, nhẹ nhàng và điệu đà.
 
-# **1. Định nghĩa**
+# **1. ĐỊNH NGHĨA**
 
-**Lipstick Lesbian** là thuật ngữ miêu tả thể hiện giới (hoặc bản dạng giới, giới tính), định nghĩa tùy thuộc vào người được hỏi. Thuật ngữ chỉ những người thuộc cộng đồng đồng tính nữ thể hiện đặc điểm nữ tính qua ngoại hình, sở thích, và biểu hiện của các đặc điểm giới tính truyền thống hoặc mối quan hệ cá nhân.
+**Lipstick Lesbian** là thuật ngữ miêu tả thể hiện giới (hoặc bản dạng giới, giới tính), ĐỊNH NGHĨA tùy thuộc vào người được hỏi. Thuật ngữ chỉ những người thuộc cộng đồng đồng tính nữ thể hiện đặc điểm nữ tính qua ngoại hình, sở thích, và biểu hiện của các đặc điểm giới tính truyền thống hoặc mối quan hệ cá nhân.
 
 Thuật ngữ Lipstick Lesbian có thể dùng để miêu tả người đồng tính nữ ưa thích việc trang điểm, mặc váy đầm, cao gót,... Trong cách sử dụng phổ biến, thuật ngữ này là thể hiện giới tính nữ của những người phụ nữ song tính (bisexual), hoặc đa dạng hóa các mối quan hệ nữ - nữ giữa những người phụ nữ nữ tính.
 

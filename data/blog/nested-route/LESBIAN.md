@@ -9,7 +9,7 @@ summary: 'Đồng tính luyến ái nữ (hay đồng tính nữ) Chỉ những 
 
 Đồng tính luyến ái nữ (hay đồng tính nữ) Chỉ những người nữ bị thu hút về mặt tình cảm và tình dục đối với những người nữ.
 
-# **1. Định nghĩa**
+# **1. ĐỊNH NGHĨA**
 
 Đồng tính nữ là người có giới nữ, trải nghiệm thu hút về mặt tình cảm/tình dục với giới nữ. Sự thu hút này bền vững, khó bị thay đổi và không phải là một lựa chọn.
 
