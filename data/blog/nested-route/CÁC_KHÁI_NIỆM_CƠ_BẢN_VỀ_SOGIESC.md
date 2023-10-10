@@ -3,7 +3,7 @@ title: 'CÁC KHÁI NIỆM CƠ BẢN VỀ SOGIESC'
 date: '2023-8-18'
 tags: ['Bản dạng giới', 'Xu hướng tính dục', 'Thể hiện giới', 'Xu hướng tính dục']
 draft: false
-image: '/static/images/SOGIESC/SOGIESC(2).png'
+image: '/static/images/SOGIESC/SOGIESC(2)'
 summary: 'SOGIESC nói về sự đa dạng tính dục của con người, bao gồm...'
 ---
 
@@ -21,7 +21,7 @@ Với một số trường hợp có những đặc điểm nhận diện giới
 
 Tất cả những đặc điểm sinh lý gắn liền với chúng ta khi sinh ra được gọi là giới tính khi sinh.
 
-![Alt text](/static/images/SOGIESC/SOGIESC(2).png 'Hình minh họa về giới tính sinh học')
+![Alt text](/static/images/SOGIESC/SOGIESC(2) 'Hình minh họa về giới tính sinh học')
 
 ## **2.BẢN DẠNG GIỚI (GENDER IDENTITY)**
 
@@ -39,10 +39,10 @@ Người chuyển giới (transgender) là người có giới tính sinh học 
 
 Thể hiện giới được chia làm ba sắc thái: nam tính (masculine), nữ tính (feminine) và trung tính (androgynous). Nhưng quan trọng việc thể hiện giới nào không đồng nghĩa với việc bạn thuộc giới đó.
 
-![Alt text](/static/images/SOGIESC/SOGIESC(3).png 'Hình minh họa về Bản dạng giới và Thể hiện giới')
+![Alt text](/static/images/SOGIESC/SOGIESC(3) 'Hình minh họa về Bản dạng giới và Thể hiện giới')
 
 ## **4.XU HƯỚNG TÍNH DỤC (SEXUAL ORIENTATION)**
 
 **Xu hướng tính dục (sexual orientation)** là sự hấp dẫn, thu hút về mặt cảm xúc hoặc tình dục với một hoặc nhiều giới. Từ đó có các xu hướng tính dục như dị tính (heterosexual), đồng tính ( homosexual), song tính (bisexual), vô tính (asexual), toàn tính (pansexual),...
 
-![Alt text](/static/images/SOGIESC/SOGIESC(2).png 'Hình minh họa về Xu hướng tính dục và Xu hướng cảm xúc')
+![Alt text](/static/images/SOGIESC/SOGIESC(2) 'Hình minh họa về Xu hướng tính dục và Xu hướng cảm xúc')
