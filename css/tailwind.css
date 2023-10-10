@@ -2,10 +2,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@font-face {
+/* @font-face {
     font-family: 'Montserrat';
     src: url(../font/Montserrat/Montserrat-VariableFont_wght.ttf);
-}
+} */
 .task-list-item::before {
     @apply hidden;
 }
