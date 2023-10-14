@@ -8,7 +8,7 @@ module.exports = {
     },
     extends: ['next', 'next/core-web-vitals'],
     rules: {
-        'prettier/prettier': 'error',
+        // 'prettier/prettier': 'error',
         'react/react-in-jsx-scope': 'off',
         'react/prop-types': 0,
         'no-unused-vars': 0,
