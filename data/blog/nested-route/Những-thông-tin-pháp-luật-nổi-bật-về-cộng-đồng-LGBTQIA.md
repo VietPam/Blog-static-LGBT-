@@ -3,7 +3,7 @@ title: 'Những thông tin pháp luật nổi bật về cộng đồng LGBTQIA+
 date: '2023-8-10'
 tags: ['Pháp luật LGBT']
 draft: false
-image: '/static/images/minh_hoạ_chuyển_giới_cccd/minh_hoạ_chuyển_giới_cccd'
+image: '/static/images/minh_hoạ_chuyển_giới_cccd/minh_hoạ_chuyển_giới_cccd.png'
 summary: 'Hợp pháp hóa hay bổ sung các điều luật về phân biệt đối xử, khám chữa bệnh đối với người đồng tính, song tính và chuyển giới từ lâu đã là một chủ đề được cộng đồng LGBTQIA+ quan tâm.'
 ---
 
@@ -24,7 +24,7 @@ Theo kết quả nghiên cứu của [iSEE](https://www.isee.org.vn/), tỉ lệ
 - Điểm c, Khoản 2, Điều 3, Luật Hộ tịch năm 2014 quy định về việc ghi vào Sổ hộ tịch việc thay đổi hộ tịch của cá nhân theo bản án, quyết định của cơ quan nhà nước có thẩm quyền khi cá nhân xác định lại giới tính
 - Điểm d, Khoản 1, Điều 23, Luật Căn cước công dân năm 2014 quy định về các trường hợp đổi, cấp lại thẻ Căn cước công dân nếu xác định lại giới tính, quê quán.
 
-![Alt text](/static/images/minh_hoạ_chuyển_giới_cccd/minh_hoạ_chuyển_giới_cccd'Hình minh họa')
+![Alt text](/static/images/minh_hoạ_chuyển_giới_cccd/minh_hoạ_chuyển_giới_cccd.png 'Hình minh họa')
 
 Dự án Luật Chuyển đổi giới tính được Quốc hội thông qua vào năm 2015 đã chính thức quy định quyền và nghĩa vụ đối với người chuyển giới, trong đó có bao gồm các hành vi nghiêm cấm đối với người chuyển giới và các thủ tục pháp lý đối với người muốn thay đổi giới tính nhờ vào sự can thiệp của y học. Điều này đã cho phép người chuyển giới được sống đúng với giới tính của mình, đồng thời được pháp luật bảo vệ trước mọi hành động kỳ thị, phân biệt đối xử, lợi dụng, đe dọa tung thông tin cá nhân. Tuy pháp luật Việt Nam đã có nhiều cởi mở đối với cộng đồng người chuyển giới, vẫn còn một số trường hợp “dở khóc dở cười” khi xác thực danh tính trên CCCD/CMND/Hộ chiếu cũng như các thủ tục hành chính, pháp lý.
 
