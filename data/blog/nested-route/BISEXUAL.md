@@ -3,7 +3,7 @@ title: 'SONG TÍNH LUYẾN ÁI | BISEXUAL'
 date: '2023-9-28'
 tags: ['Xu hướng tính dục', 'Song tính', 'Đa tính luyến ái']
 draft: false
-image: '/static/images/Bisexual_Pride_Flag.png'
+image: '/static/images/Bisexual/Bisexual_Pride_Flag.png'
 summary: 'Hầu hết mọi người đều bị thu hút về mặt thể chất và cảm xúc với những người cùng giới hoặc khác giới.'
 ---
 
